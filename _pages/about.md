@@ -54,7 +54,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/FedTP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FedTP: Federated Learning by Transformer Personalization
+**FedTP: Federated Learning by Transformer Personalization**
 
 Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi\***
 
@@ -68,7 +68,7 @@ Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/RFNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Robust Fuzzy Neural Network with an Adaptive Inference Engine
+**Robust Fuzzy Neural Network with an Adaptive Inference Engine**
 
 Leijie Zhang, **Ye Shi\***, Yu-Cheng Chang and Chin-Teng Lin\*
 
@@ -79,7 +79,7 @@ Leijie Zhang, **Ye Shi\***, Yu-Cheng Chang and Chin-Teng Lin\*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/Alt-diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Alternating Differentiation for Optimization Layers
+**Alternating Differentiation for Optimization Layers**
 
 Haixiang Sun, **Ye Shi\***, Jingya Wang, Hoang Duong Tuan, H.V. Poor, Dacheng Tao
 
@@ -90,7 +90,7 @@ Haixiang Sun, **Ye Shi\***, Jingya Wang, Hoang Duong Tuan, H.V. Poor, Dacheng Ta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/IKOL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation
+**IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation**
 
 Juze Zhang, **Ye Shi\***,Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang\*
 
@@ -101,7 +101,7 @@ Juze Zhang, **Ye Shi\***,Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang\*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/KRC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation
+**Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation**
 
 Chunlin Yu, **Ye Shi** and Jingya Wang\*
 
@@ -112,19 +112,18 @@ Chunlin Yu, **Ye Shi** and Jingya Wang\*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/UniOT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Unified Optimal Transport Framework for Universal Domain Adaptation
+**Unified Optimal Transport Framework for Universal Domain Adaptation**
 
 Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
 
 [[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/bda6843dbbca0b09b8769122e0928fad-Paper-Conference.pdf) [[**project**]](https://changwxx.github.io/UniOT-webpage/) [[**code**]]( https://github.com/changwxx/UniOT-for-UniDA) [[**video**]](https://www.youtube.com/watch?v=RwogtOEUPQQ) [[**VALSE**]](https://www.bilibili.com/video/BV1NM411L7BB/?spm_id_from=333.337.search-card.all.click&vd_source=8275a2758ee7d2cac0897efeb47abf25%2F)
-</div>
-</div>
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 
-- <div class="badge">ICCAIS 2022 (Oral)</div> Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
-- <div class="badge">IEEE TFS 2022</div> Federated Fuzzy Neural Networks with Evolutionary Rule Learning, Leijie Zhang, Ye Shi\*, Yu-Cheng Chang and Chin-Teng Lin\*. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895218) [[**code**]](https://github.com/leijiezhang/FedFNN)
+- <div class="badge">ICCAIS 2022 (Oral)</div> 
+  **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
+
+- <div class="badge">IEEE TFS 2022</div> 
+  **Federated Fuzzy Neural Networks with Evolutionary Rule Learning**, Leijie Zhang, Ye Shi\*, Yu-Cheng Chang and Chin-Teng Lin\*. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895218) [[**code**]](https://github.com/leijiezhang/FedFNN)
 
 </div>
 </div>
