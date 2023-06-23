@@ -175,7 +175,7 @@ Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
   
 - **Nonsmooth Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi\***, Hoang Duong Tuan, Steven W. Su and H. H. M. Tam, accepted by the 3rd IEEE Global Conference on Signal and Information Processing, 2015. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7418376)
 
-# 🎖️ Honors and Awards
+# 🎖️ Awards
 - *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
 - *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia.
 - *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia.
@@ -202,13 +202,13 @@ School of Information Science and Technology, ShanghaiTech University.
   + School of Electrical Engineering and Telecommunications, Faculty of Engineering, University of New South Wales.
   + Supervisor: Prof. Andrey V. Savkin, E-mail: a.savkin@unsw.edu.au
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2019.10*, Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, Beijing.
 - *2018.04*, Nonconvex and nonsmooth optimization in smart grids, International Forum for Interdisciplinary Sciences and Engineering Open Forum, Wuhan University.
 - *2016.11*, Nonconvex Spectral Algorithm for Solving BMI on the Reduced Order H∞ Control, IEEE International Conference on Control Systems, Computing and Engineering, Penang, Malaysia.
 <!-- - *2018.04*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 🕴️ Professional Activities
+# 🕴️ Activities
 - **Session Chair**
 The 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2019).
 - **Program committee**
