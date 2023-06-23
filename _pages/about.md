@@ -122,9 +122,11 @@ Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
 </div>
 
 - <div class="badge">ICCAIS 2022 (Oral)</div> 
+  
   **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
 
 - <div class="badge">IEEE TFS 2022</div> 
+  
   **Federated Fuzzy Neural Networks with Evolutionary Rule Learning**, Leijie Zhang, Ye Shi\*, Yu-Cheng Chang and Chin-Teng Lin\*. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895218) [[**code**]](https://github.com/leijiezhang/FedFNN)
 
 
