@@ -32,24 +32,93 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A master degree in mathematics, computer science, machine learning, electrical engineering, control, big data or related areas is required.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accpeted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratualation to Hongxia Li and Zhongyi Cai! -->
+- *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai!
+- *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by IEEE Transactions on Cybernetics, 2023. (Impact factor 19.118) Congratulation to Leijie Zhang!
+- *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by ICLR 2023 (CCF A). Congratulation to Haixiang Sun!
+- *2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulation to Juze Zhang!
+- *2022.11*: "Beyond Rehearsal: Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulation to Chunlin Yu!
+- *2022.10*: "Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy" has been accepted by ICCAIS 2022 as an oral. The first author is our undergraduate student Qi Li, Congratulations!
+- *2022.09*: "Unified Optimal Transport Framework for Universal Domain Adaptation" has been accepted by NeurIPS 2022 (CCF A) as a Spotlight. Congratulation to Wanxing Chang!
+- *2022.09*: "Federated Fuzzy Neural Networks with Evolutionary Rule Learning" has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029) Congratulation to Leijie Zhang!
+- *2022.07*: "Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation" has been accepted by ACM Multimedia 2022 (CCF A). Congratulation to Juze Zhang!
+- *2021.12*: One paper (Corresponding author) received the Best Student Paper Award at Australia Artificial Intelligence Institute.
+- *2021.08*: One paper has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
+- *2021.07*: One paper (First author) has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
+- *2021.05*: One paper (First author) has been published in Applied Energy. (Impact factor 9.746)
+- *2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)
+- *2021.01*: Dr Ye Shi joined ShanghaiTech as an Tenure-track Assistant Professor.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023</div><img src='images/FedTP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+FedTP: Federated Learning by Transformer Personalization
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Hongxia Li^#^, Zhongyi Cai^#^, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi^*^**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130784) [**code**](https://github.com/zhyczy/FedTP)
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/RFNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Robust Fuzzy Neural Network with an Adaptive Inference Engine
+
+Leijie Zhang, **Ye Shi^*^**, Yu-Cheng Chang and Chin-Teng Lin^*^
+
+[**paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10045012) [**code**](https://github.com/leijiezhang/RFNN)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/Alt-diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Alternating Differentiation for Optimization Layers
+
+Haixiang Sun, **Ye Shi^*^**, Jingya Wang, Hoang Duong Tuan, H.V. Poor, Dacheng Tao
+
+[**paper**](https://openreview.net/pdf?id=KKBMz-EL4tD) [**code**](https://github.com/leijiezhang/RFNN)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/IKOL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation
+
+Juze Zhang, **Ye Shi^*^**, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang^*^
+
+[**paper**](https://arxiv.org/pdf/2302.01058.pdf) [**code**](https://github.com/Juzezhang/IKOL)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/KRC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation
+
+Chunlin Yu, **Ye Shi** and Jingya Wang^*^
+
+[**paper**](https://arxiv.org/pdf/2211.16201.pdf) [**code**](https://github.com/cly234/LReID-KRKC)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022 (Spotlight) </div><img src='images/UniOT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unified Optimal Transport Framework for Universal Domain Adaptation
+
+Wanxing Chang, **Ye Shi^*^**, Jingya Wang^*^, Hoang Duong Tuan
+
+[**paper**](https://proceedings.neurips.cc/paper_files/paper/2022/file/bda6843dbbca0b09b8769122e0928fad-Paper-Conference.pdf) [**code**]( https://github.com/changwxx/UniOT-for-UniDA)
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
