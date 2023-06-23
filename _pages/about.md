@@ -21,12 +21,12 @@ Dr. Ye Shi received the B.S. degree at Northwestern Polytechnical University, Ch
 
 Dr. Shi also received many honors and awards, including the 2018 National Outstanding Self-financed International Student Scholarship, the 2016 IEEE ICCSCE Best Paper Award, the 2017 UTS Higher Degree Research Publication Award, the 2014 Australia ARC Discovery Award, and the 2014 UTS International Research Scholarship, the Meritorious Winner of the 2013 American College Students Mathematical Contest in Modeling, the First Prize of the 2012 Chinese College Students Mathematical Contest in Modeling, the 2010 National Scholarship, etc. In addition, Dr. Shi serves as a Reviewer for many top-level international journals, such as IEEE Journal on Selected Areas in Communications, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Fuzzy Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Industrial Electronics, Information Sciences, Applied Soft Computing, IEEE Systems Journal.
 
-# Research Interests
+# ✡️ Research Interests
 My current research interests mainly focus on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, and on the fundamental optimizations underlying them. I am interested in developing Trustworty AI algorithms that are more robust, more privacy-preserving and more explainable compared with traditional deep learning methods. Moreover, our target is to use the developed RAI methods to solve not only the tasks like Computer Vision and Natual Laguage Processing, but also the real-world applications, such as Smart Grid and Robotics.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# Position Openings
+# 🔊 Position Openings
 - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathemetical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
 - **Undergraduates/Visting Students:** We warmly encourage students (from ShanghaiTech or other Universities) studying at Computer Science and Technology, Information and Communication Engineering, and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A master degree in mathematics, computer science, machine learning, electrical engineering, control, big data or related areas is required.
@@ -66,7 +66,7 @@ Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/RFNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/NeuralDome.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions**
@@ -77,7 +77,7 @@ Juze Zhang, Haimin Luo, Hongdi Yang, Xinru Xu, Qianyang Wu, **Ye Shi**, Jingyi Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/publications/NeuralDome.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/publications/RFNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Fuzzy Neural Network with an Adaptive Inference Engine**
@@ -175,7 +175,7 @@ Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
   
 - **Nonsmooth Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi\***, Hoang Duong Tuan, Steven W. Su and H. H. M. Tam, accepted by the 3rd IEEE Global Conference on Signal and Information Processing, 2015. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7418376)
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
 - *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia.
 - *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia.
@@ -192,7 +192,7 @@ Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
 - *2014.02 - 2018.11*, Ph.D., University of Technology Sydney, NSW, Australia. 
 - *2009.09 - 2013.06*, B.S., Northwestern Polytechnical University, Xi'an, China. 
 
-# Work Experience
+# 💻 Work Experience
 - **Work Experience** (2021。01 -now): 
 School of Information Science and Technology, ShanghaiTech University.
 - **Postdoctoral Fellow** (2019.07-2020.12):  
@@ -208,7 +208,7 @@ School of Information Science and Technology, ShanghaiTech University.
 - *2016.11*, Nonconvex Spectral Algorithm for Solving BMI on the Reduced Order H∞ Control, IEEE International Conference on Control Systems, Computing and Engineering, Penang, Malaysia.
 <!-- - *2018.04*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# Professional Activities
+# 🕴️ Professional Activities
 - **Session Chair**
 The 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2019).
 - **Program committee**
@@ -229,7 +229,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Energies, ICARCV 2019
   + ICARCV 2020
 
-# Group
+# 🧑‍🎓 Group
 - **Ph.D. Students**
   + Bikang Pan (2023 Fall - present): B.E. in Computer Science, ShanghaiTech University.
 - **Master Students**
@@ -243,6 +243,6 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 - **Undergraduates/Visting Students**
   + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University. 
 
-# Teaching
+# 🧑‍🏫 Teaching
 - Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn.
 - Course SI152 - **Numerical Optimization**, ShanghaiTech University, 2022 Spring, 2023 Spring.
