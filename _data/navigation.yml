@@ -12,11 +12,14 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Professional Activities"
+    url: "/#-professional-activities"
+
+  - title: "Group"
+    url: "/#-group"
+
+  - title: "Teaching"
+    url: "/#-teaching"
