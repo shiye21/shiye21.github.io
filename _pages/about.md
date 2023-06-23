@@ -34,6 +34,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 # 🔥 News
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accpeted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratualation to Hongxia Li and Zhongyi Cai! -->
 - *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai!
+- *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by CVPR 2023 (CCF A). Congratulation to Juze Zhang!
 - *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by IEEE Transactions on Cybernetics, 2023. (Impact factor 19.118) Congratulation to Leijie Zhang!
 - *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by ICLR 2023 (CCF A). Congratulation to Haixiang Sun!
 - *2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulation to Juze Zhang!
@@ -51,7 +52,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/FedTP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/publications/FedTP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FedTP: Federated Learning by Transformer Personalization**
@@ -65,7 +66,18 @@ Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/RFNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/RFNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions**
+
+Juze Zhang, Haimin Luo, Hongdi Yang, Xinru Xu, Qianyang Wu, **Ye Shi**, Jingyi Yu, Lan Xu\*, Jingya Wang\*
+
+[[**paper**]](https://arxiv.org/pdf/2212.07626.pdf) [[**project]](https://juzezhang.github.io/NeuralDome//) [[**video**]](https://www.youtube.com/watch?v=Nb82f5dm2GE)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/publications/NeuralDome.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Fuzzy Neural Network with an Adaptive Inference Engine**
@@ -76,7 +88,7 @@ Leijie Zhang, **Ye Shi\***, Yu-Cheng Chang and Chin-Teng Lin\*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/Alt-diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publications/Alt-diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Alternating Differentiation for Optimization Layers**
@@ -87,7 +99,7 @@ Haixiang Sun, **Ye Shi\***, Jingya Wang, Hoang Duong Tuan, H.V. Poor, Dacheng Ta
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/IKOL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/publications/IKOL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation**
@@ -98,18 +110,18 @@ Juze Zhang, **Ye Shi\***,Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang\*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/KRC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/publications/KRC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation**
 
-Chunlin Yu, **Ye Shi** and Jingya Wang\*
+Chunlin Yu, **Ye Shi**, Zimo Liu, Shenghua Gao, Jingya Wang\*
 
 [[**paper**]](https://arxiv.org/pdf/2211.16201.pdf) [[**project**]](https://cly234.github.io/KRKC-projectpage/) [[**code**]](https://github.com/cly234/LReID-KRKC)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/UniOT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/publications/UniOT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Unified Optimal Transport Framework for Universal Domain Adaptation**
@@ -121,14 +133,47 @@ Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
 </div>
 </div>
 
-- <div class="badge">ICCAIS 2022 (Oral)</div> 
-  
-  **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
+- **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan, accepted by ICCAIS 2022 (Oral). [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
 
-- <div class="badge">IEEE TFS 2022</div> 
+- **Federated Fuzzy Neural Networks with Evolutionary Rule Learning**, Leijie Zhang, **Ye Shi\***, Yu-Cheng Chang and Chin-Teng Lin\*, accepted by IEEE Transactions on Fuzzy Systems, 2022. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895218) [[**code**]](https://github.com/leijiezhang/FedFNN)
   
-  **Federated Fuzzy Neural Networks with Evolutionary Rule Learning**, Leijie Zhang, Ye Shi\*, Yu-Cheng Chang and Chin-Teng Lin\*. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895218) [[**code**]](https://github.com/leijiezhang/FedFNN)
+- **Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation**, Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu, accepted by ACM MM 2022. [[**paper**]](https://arxiv.org/pdf/2207.07900.pdf)
+  
+- **Distributed Semi-supervised Fuzzy Regression with Interpolation Consistency Regularization**, **Ye Shi\#**, Leijie Zhang\#, Zehong Cao, M. Tanveer and Chin-Teng Lin\*, accepted by IEEE Transactions on Fuzzy Systems, 2022. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512491) [[**code**]](https://github.com/leijiezhang/DSFR)
+  
+- **Distributed model predictive control for joint coordination of demand response and optimal power flow with renewables in smart grid**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Chin-Teng Lin, Jian Guo Zhu, H. Vincent Poor, accepted by  Applied Energy, 2021. [[**paper**]](https://www.sciencedirect.com/science/article/pii/S0306261921002245)
+  
+- **Hierarchical fuzzy neural networks with privacy preservation on heterogeneous big data**, Leijie Zhang\#, **Ye Shi\#\***, Yu-Cheng Chang, and Chin-Teng Lin, accepted by IEEE Transactions on Fuzzy Systems, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186813) [[**code**]](https://github.com/leijiezhang/PP_HFNN)
+  
+- **PMU Placement Optimization for Efficient State Estimation in Smart Grid**, **Ye Shi**, Hoang Duong Tuan\*, Trung Q. Duong, H. Vincent Poor and Andrey V. Savkin, accepted by IEEE Journal on Selected Areas in Communications, 2020. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892535)
 
+- **Parameterized bilinear matrix inequality techniques for H ∞ gain-scheduling proportional integral derivative control design**, **Ye Shi**, Hoang Duong Tuan\* and Pierre Apkarian, accepted by International Journal of Robust and Nonlinear Control, 2020. [[**paper**]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.4979)
+  
+- **Consensus learning for distributed fuzzy neural network in big data environment**, **Ye Shi\***, Chin-Teng Lin, Yu-Cheng Chang, Weiping Ding, Yuhui Shi and Xin Yao, accepted by IEEE Transactions on Emerging Topics in Computational Intelligence, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112660)
+  
+- **Deep- IRTarget: An Automatic Target Detector in Infrared Imagery using Dual-domain Feature Extraction and Allocation**, Ruiheng Zhang, Lixin Xu, Zhengyu Yu, **Ye Shi**, Chengpo Mu, Min Xu\*, accepted by IEEE Transactions on Multimedia, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9398929)
+
+- **Interpretable Fuzzy Logic Control for Multi-Robot Coordination in a Cluttered Environment**, Yu-Cheng Chang, **Ye Shi**, Anna Dostovalova, Zehong Cao, Chin-Teng Lin\*, Daniel Gibbons, Jijoong Kim, accepted by IEEE Transactions on Fuzzy Systems, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535292)
+  
+- **Model predictive control for on-off Charging of Electrical Vehicles in Smart Grids**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong and H. Vincent Poor, accepted by IET Electrical Systems in Transportation, 2020. [[**paper**]](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/els2.12010)
+  
+- **Mixed integer nonlinear programming for Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations**, **Ye Shi\***, Hoang Duong Tuan, and Andrey V. Savkin, accepted by the 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2019. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909799)
+  
+- **Model Predictive Control for Smart Grids with Multiple Electric-Vehicle Charging Stations**, **Ye Shi**, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong\* and H. Vincent Poor, accepted by IEEE Transaction on Smart Grid, 2019. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8245844)
+  
+- **Optimal Power Flow over Large-Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Andrey V. Savkin, Steven W. Su, accepted by Systems & Control Letters, 2018. [[**paper**]](https://www.sciencedirect.com/science/article/pii/S0167691118300938)
+  
+- **Nonconvex Spectral Optimization Algorithms for Reduced-Order H∞ LPV-LFT controllers**, **Ye Shi**, Hoang Duong Tuan\* and Pierre Apkarian, accepted by International Journal of Robust and Nonlinear Control, 2017. [[**paper**]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.3805)
+  
+- **Global Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\* , Hoang Tuy and Steven W. Su, accepted by Journal of Global Optimization, 2017. [[**paper**]](https://link.springer.com/article/10.1007/s10898-017-0538-5)
+  
+- **Three-phase Optimal Power Flow for Smart Grids by Iterative Nonsmooth Optimization**, **Ye Shi**, Hoang Duong Tuan\*, and Andrey V. Savkin, accepted by the 6th International Conference on Smart Cities and Green ICT Systems, 2017. [[**paper**]](https://opus.lib.uts.edu.au/bitstream/10453/115847/1/TOPF_SmartGreens17.pdf)
+  
+- **Nonconvex Spectral Algorithm for Solving BMI on the Reduced Order H∞ Control**, **Ye Shi\***, Hoang Duong Tuan, and Steven W. Su, accepted by the 6th IEEE International Conference on Control Systems, Computing and Engineering, 2016. (Best Paper Award) [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7893591)
+  
+- **Multiple Matrix Rank Constrained Optimization for Optimal Power Flow over Large Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Steven W. Su, and Andrey V. Savkin, accepted by proceedings of the 5th International Conference on Smart Cities and Green ICT Systems, 2016. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7951375)
+  
+- **Nonsmooth Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi\***, Hoang Duong Tuan, Steven W. Su and H. H. M. Tam, accepted by the 3rd IEEE Global Conference on Signal and Information Processing, 2015. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7418376)
 
 # 🎖 Honors and Awards
 - *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
@@ -183,6 +228,20 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + IET Smart Grid
   + Energies, ICARCV 2019
   + ICARCV 2020
+
+# Group
+- **Ph.D. Students**
+  + Bikang Pan (2023 Fall - present): B.E. in Computer Science, ShanghaiTech University.
+- **Master Students**
+  + Haixiang Sun (2021 Fall - present): B.S. in Management Science and Engineering, Beijing Forestry University, Outstanding Graduates in Beijing. 
+  + Pengchao Tian (2021 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
+  + Hongxia Li (2021 Fall - present): B.S. in Statistics, Nanjing University of Science and Technology.
+  + Shutong Ding (2022 Fall - present): 
+  + Xinru Xu (2022 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
+  + Tianyu Cui (2022 Fall - present): B.S. in Physics, University of Science and Technology of China. 
+  + Jiangnan Tang (2022 Fall - present): B.E. in Software Engineering, Beijing University of Posts and Telecommunications.
+- **Undergraduates/Visting Students**
+  + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University. 
 
 # Teaching
 - Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn.
