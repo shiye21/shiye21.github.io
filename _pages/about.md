@@ -56,9 +56,9 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 FedTP: Federated Learning by Transformer Personalization
 
-Hongxia Li^#^, Zhongyi Cai^#^, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi^*^**
+Hongxia Li#, Zhongyi Cai#, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi***
 
-[**paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130784) [**code**](https://github.com/zhyczy/FedTP)
+[[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130784) [[**code**]](https://github.com/zhyczy/FedTP)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -70,7 +70,7 @@ Hongxia Li^#^, Zhongyi Cai^#^, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye S
 
 Robust Fuzzy Neural Network with an Adaptive Inference Engine
 
-Leijie Zhang, **Ye Shi^*^**, Yu-Cheng Chang and Chin-Teng Lin^*^
+Leijie Zhang, **Ye Shi***, Yu-Cheng Chang and Chin-Teng Lin*
 
 [**paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10045012) [**code**](https://github.com/leijiezhang/RFNN)
 </div>
@@ -81,7 +81,7 @@ Leijie Zhang, **Ye Shi^*^**, Yu-Cheng Chang and Chin-Teng Lin^*^
 
 Alternating Differentiation for Optimization Layers
 
-Haixiang Sun, **Ye Shi^*^**, Jingya Wang, Hoang Duong Tuan, H.V. Poor, Dacheng Tao
+Haixiang Sun, **Ye Shi***, Jingya Wang, Hoang Duong Tuan, H.V. Poor, Dacheng Tao
 
 [**paper**](https://openreview.net/pdf?id=KKBMz-EL4tD) [**code**](https://github.com/leijiezhang/RFNN)
 </div>
@@ -92,7 +92,7 @@ Haixiang Sun, **Ye Shi^*^**, Jingya Wang, Hoang Duong Tuan, H.V. Poor, Dacheng T
 
 IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation
 
-Juze Zhang, **Ye Shi^*^**, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang^*^
+Juze Zhang, **Ye Shi***, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang*
 
 [**paper**](https://arxiv.org/pdf/2302.01058.pdf) [**code**](https://github.com/Juzezhang/IKOL)
 </div>
@@ -103,7 +103,7 @@ Juze Zhang, **Ye Shi^*^**, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang^*^
 
 Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation
 
-Chunlin Yu, **Ye Shi** and Jingya Wang^*^
+Chunlin Yu, **Ye Shi** and Jingya Wang*
 
 [**paper**](https://arxiv.org/pdf/2211.16201.pdf) [**code**](https://github.com/cly234/LReID-KRKC)
 </div>
@@ -114,7 +114,7 @@ Chunlin Yu, **Ye Shi** and Jingya Wang^*^
 
 Unified Optimal Transport Framework for Universal Domain Adaptation
 
-Wanxing Chang, **Ye Shi^*^**, Jingya Wang^*^, Hoang Duong Tuan
+Wanxing Chang, **Ye Shi***, Jingya Wang*, Hoang Duong Tuan
 
 [**paper**](https://proceedings.neurips.cc/paper_files/paper/2022/file/bda6843dbbca0b09b8769122e0928fad-Paper-Conference.pdf) [**code**]( https://github.com/changwxx/UniOT-for-UniDA)
 </div>
