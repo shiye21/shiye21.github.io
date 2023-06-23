@@ -175,19 +175,6 @@ Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
   
 - **Nonsmooth Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi\***, Hoang Duong Tuan, Steven W. Su and H. H. M. Tam, accepted by the 3rd IEEE Global Conference on Signal and Information Processing, 2015. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7418376)
 
-# 🎖️ Awards
-- *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
-- *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia.
-- *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia.
-- *2016* Best Paper Award, the 6th IEEE International Conference on Control Systems, Computing and Engineering, Malaysia.
-- *2016* ARC Discovery Scholarship, University of Technology Sydney, 2014-2016, Australia.
-- *2016* International Research Scholarships, University of Technology Sydney, 2014-2016, Australia.
-- *2013* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America.
-- *2012* First Prize of Chinese Undergraduate Mathematical Contest for Modeling (CUMCM), China Society for Industrial and Applied Mathematics, China.
-- *2011* First-class Scholarship, Northwestern Polytechnical University, China.
-- *2010* Merit Student Award, Northwestern Polytechnical University, China.
-- *2010* National Scholarship, Chinese Ministry of Education, China.
-
 # 📖 Educations
 - *2014.02 - 2018.11*, Ph.D., University of Technology Sydney, NSW, Australia. 
 - *2009.09 - 2013.06*, B.S., Northwestern Polytechnical University, Xi'an, China. 
@@ -201,6 +188,19 @@ School of Information Science and Technology, ShanghaiTech University.
 - **Research Assistant** (2017.03-2019.06): 
   + School of Electrical Engineering and Telecommunications, Faculty of Engineering, University of New South Wales.
   + Supervisor: Prof. Andrey V. Savkin, E-mail: a.savkin@unsw.edu.au
+
+# 🎖️ Awards
+- *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
+- *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia.
+- *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia.
+- *2016* Best Paper Award, the 6th IEEE International Conference on Control Systems, Computing and Engineering, Malaysia.
+- *2016* ARC Discovery Scholarship, University of Technology Sydney, 2014-2016, Australia.
+- *2016* International Research Scholarships, University of Technology Sydney, 2014-2016, Australia.
+- *2013* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America.
+- *2012* First Prize of Chinese Undergraduate Mathematical Contest for Modeling (CUMCM), China Society for Industrial and Applied Mathematics, China.
+- *2011* First-class Scholarship, Northwestern Polytechnical University, China.
+- *2010* Merit Student Award, Northwestern Polytechnical University, China.
+- *2010* National Scholarship, Chinese Ministry of Education, China.
 
 # 💬 Talks
 - *2019.10*, Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, Beijing.
