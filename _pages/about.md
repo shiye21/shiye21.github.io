@@ -118,6 +118,8 @@ Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
 
 [[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/bda6843dbbca0b09b8769122e0928fad-Paper-Conference.pdf) [[**project**]](https://changwxx.github.io/UniOT-webpage/) [[**code**]]( https://github.com/changwxx/UniOT-for-UniDA) [[**video**]](https://www.youtube.com/watch?v=RwogtOEUPQQ) [[**VALSE**]](https://www.bilibili.com/video/BV1NM411L7BB/?spm_id_from=333.337.search-card.all.click&vd_source=8275a2758ee7d2cac0897efeb47abf25%2F)
 
+</div>
+</div>
 
 - <div class="badge">ICCAIS 2022 (Oral)</div> 
   **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
@@ -125,8 +127,6 @@ Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
 - <div class="badge">IEEE TFS 2022</div> 
   **Federated Fuzzy Neural Networks with Evolutionary Rule Learning**, Leijie Zhang, Ye Shi\*, Yu-Cheng Chang and Chin-Teng Lin\*. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895218) [[**code**]](https://github.com/leijiezhang/FedFNN)
 
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
