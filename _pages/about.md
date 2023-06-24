@@ -276,7 +276,6 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 - Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn.
 - Course SI152 - **Numerical Optimization**, ShanghaiTech University, 2022 Spring, 2023 Spring.
 
-
 # 🧑‍🎓 Group
 - **Ph.D. Students**
   + Bikang Pan (2023 Fall - present): B.E. in Computer Science, ShanghaiTech University.
@@ -284,7 +283,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Haixiang Sun (2021 Fall - present): B.S. in Management Science and Engineering, Beijing Forestry University, Outstanding Graduates in Beijing. 
   + Pengchao Tian (2021 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
   + Hongxia Li (2021 Fall - present): B.S. in Statistics, Nanjing University of Science and Technology.
-  + Shutong Ding (2022 Fall - present): 
+  + Shutong Ding (2022 Fall - present): B.E. in Computer Science, Fuzhou University.
   + Xinru Xu (2022 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
   + Tianyu Cui (2022 Fall - present): B.S. in Physics, University of Science and Technology of China. 
   + Jiangnan Tang (2022 Fall - present): B.E. in Software Engineering, Beijing University of Posts and Telecommunications.
