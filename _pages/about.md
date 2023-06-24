@@ -73,7 +73,7 @@ Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi
 
 Juze Zhang, Haimin Luo, Hongdi Yang, Xinru Xu, Qianyang Wu, **Ye Shi**, Jingyi Yu, Lan Xu\*, Jingya Wang\*
 
-[[**paper**]](https://arxiv.org/pdf/2212.07626.pdf) [[**project]](https://juzezhang.github.io/NeuralDome) [[**video**]](https://www.youtube.com/watch?v=Nb82f5dm2GE)
+[[**paper**]](https://arxiv.org/pdf/2212.07626.pdf) [[**project**]](https://juzezhang.github.io/NeuralDome) [[**video**]](https://www.youtube.com/watch?v=Nb82f5dm2GE)
 </div>
 </div>
 
