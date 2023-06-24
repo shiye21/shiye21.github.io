@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Ye Shi"
 description              : "Building 1A 404.A, 393 Huaxia Middle Road, Pudong New Area, Shanghai, China"
-repository               : "Lihxhx.github.io"
+repository               : "Lihxhx/Lihxhx.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -26,7 +26,6 @@ author:
   bio              : "Assistant Professor, ShanghaiTech University"
   location         : 
   employer         : "(021) 20684426"
-  phone            : "3"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gMqbZPUAAAAJ"
   email            : "shiye@shanghaitech.edu.cn"

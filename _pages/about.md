@@ -272,6 +272,11 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Energies, ICARCV 2019
   + ICARCV 2020
 
+# 🧑‍🏫 Teaching
+- Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn.
+- Course SI152 - **Numerical Optimization**, ShanghaiTech University, 2022 Spring, 2023 Spring.
+
+
 # 🧑‍🎓 Group
 - **Ph.D. Students**
   + Bikang Pan (2023 Fall - present): B.E. in Computer Science, ShanghaiTech University.
@@ -283,9 +288,8 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Xinru Xu (2022 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
   + Tianyu Cui (2022 Fall - present): B.S. in Physics, University of Science and Technology of China. 
   + Jiangnan Tang (2022 Fall - present): B.E. in Software Engineering, Beijing University of Posts and Telecommunications.
+  + Lingxiao Yang (2023 Fall - present): B.E. in Software Engineering, Northeastern University.
+  + Haoyu Yan (2023 Fall - present): B.E. in Electronic Information Engineering, Wuhan University of Technology.
 - **Undergraduates/Visting Students**
   + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University. 
 
-# 🧑‍🏫 Teaching
-- Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn.
-- Course SI152 - **Numerical Optimization**, ShanghaiTech University, 2022 Spring, 2023 Spring.
