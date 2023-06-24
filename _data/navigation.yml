@@ -1,13 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-educations"
+    url: "/#-awards"
 
   - title: "News"
     url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Research"
+    url: "/#-research"
 
   # - title: "Awards"
   #   url: "/#️-awards"
