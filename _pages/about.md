@@ -268,8 +268,8 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Haixiang Sun (2021 Fall - present): B.S. in Management Science and Engineering, Beijing Forestry University, Outstanding Graduates in Beijing. 
   + Pengchao Tian (2021 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
   + Hongxia Li (2021 Fall - present): B.S. in Statistics, Nanjing University of Science and Technology.
-  + Wanxing Chang (2021 Fall - present, co-supervision): B.E. in Biomedical Engineering, University of Electronic Science and Technology of China.
-  + Zhongyi Cai (2021 Fall - present, co-supervision): B.E. in Computer Science, ShanghaiTech University. 
+  + Wanxing Chang (2021 Fall - present, jointly with Jingya Wang): B.E. in Biomedical Engineering, University of Electronic Science and Technology of China.
+  + Zhongyi Cai (2021 Fall - present, jointly with Jingya Wang): B.E. in Computer Science, ShanghaiTech University. 
   + Shutong Ding (2022 Fall - present): B.E. in Computer Science, Fuzhou University.
   + Xinru Xu (2022 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
   + Tianyu Cui (2022 Fall - present): B.S. in Physics, University of Science and Technology of China. 
