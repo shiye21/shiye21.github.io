@@ -72,7 +72,7 @@ Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi
 
 Juze Zhang, Haimin Luo, Hongdi Yang, Xinru Xu, Qianyang Wu, **Ye Shi**, Jingyi Yu, Lan Xu\*, Jingya Wang\*
 
-[[**paper**]](https://arxiv.org/pdf/2212.07626.pdf) [[**project]](https://juzezhang.github.io/NeuralDome) [[**video**]](https://www.youtube.com/watch?v=Nb82f5dm2GE)
+[[**paper**]](https://arxiv.org/pdf/2212.07626.pdf) [[**project**]](https://juzezhang.github.io/NeuralDome) [[**video**]](https://www.youtube.com/watch?v=Nb82f5dm2GE)
 </div>
 </div>
 
@@ -103,7 +103,7 @@ Haixiang Sun, **Ye Shi\***, Jingya Wang, Hoang Duong Tuan, H.V. Poor, Dacheng Ta
 
 **IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation, AAAI 2023 (oral)**
 
-Juze Zhang, **Ye Shi\***,Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang\*
+Juze Zhang, **Ye Shi\***, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang\*
 
 [[**paper**]](https://arxiv.org/pdf/2302.01058.pdf) [[**project**]](https://juzezhang.github.io/IKOL-webpage/) [[**code**]](https://github.com/Juzezhang/IKOL)
 </div>
