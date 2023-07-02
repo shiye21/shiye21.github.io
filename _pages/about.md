@@ -19,28 +19,26 @@ redirect_from:
 
 Dr. Ye Shi received the B.S. degree at Northwestern Polytechnical University, China in 2013 and the Ph.D. degree at University of Technology Sydney (UTS), Australia in 2018. His Ph.D. is under the supervision of Prof. Tuan D. Hoang, who is an expert in the field of control and optimization. Dr Shi served as a Research Assistant at the University of New South Wales, Australia from 2017 to 2019, and a Postdoctoral Fellow at the University of Technology Sydney from 2019 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021.
 
-Dr. Shi also received many honors and awards, including the 2018 National Outstanding Self-financed International Student Scholarship, the 2016 IEEE ICCSCE Best Paper Award, the 2017 UTS Higher Degree Research Publication Award, the 2014 Australia ARC Discovery Award, and the 2014 UTS International Research Scholarship, the Meritorious Winner of the 2013 American College Students Mathematical Contest in Modeling, the First Prize of the 2012 Chinese College Students Mathematical Contest in Modeling, the 2010 National Scholarship, etc. In addition, Dr. Shi serves as a Reviewer for many top-level international journals, such as IEEE Journal on Selected Areas in Communications, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Fuzzy Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Industrial Electronics, Information Sciences, Applied Soft Computing, IEEE Systems Journal.
-
 # ✡️ Research Interests
-My current research interests mainly focus on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, and on the fundamental optimizations underlying them. I am interested in developing Trustworty AI algorithms that are more robust, more privacy-preserving and more explainable compared with traditional deep learning methods. Moreover, our target is to use the developed RAI methods to solve not only the tasks like Computer Vision and Natual Laguage Processing, but also the real-world applications, such as Smart Grid and Robotics.
+My current research interests mainly focus on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, and on the fundamental optimizations underlying them. I am interested in developing AI algorithms that are more robust, more privacy-preserving and more memory-efficient compared to traditional deep learning methods. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learn to optimize, AI for Drug Discovery, AI for Carbon Neutrality, etc.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔊 Position Openings
-- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathemetical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
+- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
 - **Undergraduates/Visting Students:** We warmly encourage students (from ShanghaiTech or other Universities) studying at Computer Science and Technology, Information and Communication Engineering, and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A master degree in mathematics, computer science, machine learning, electrical engineering, control, big data or related areas is required.
 
 # 🔥 News
-<!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accpeted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratualation to Hongxia Li and Zhongyi Cai! -->
+<!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai! -->
 - *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai!
 - *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by CVPR 2023 (CCF A). Congratulation to Juze Zhang!
 - *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by IEEE Transactions on Cybernetics, 2023. (Impact factor 19.118) Congratulation to Leijie Zhang!
 - *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by ICLR 2023 (CCF A). Congratulation to Haixiang Sun!
 - *2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulation to Juze Zhang!
 - *2022.11*: "Beyond Rehearsal: Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulation to Chunlin Yu!
-- *2022.10*: "Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy" has been accepted by ICCAIS 2022 as an oral. The first author is our undergraduate student Qi Li, Congratulations!
+- *2022.10*: "Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy" has been accepted by ICCAIS 2022 as an oral. The first author is our undergraduate student Qi Li. Congratulations!
 - *2022.09*: "Unified Optimal Transport Framework for Universal Domain Adaptation" has been accepted by NeurIPS 2022 (CCF A) as a Spotlight. Congratulation to Wanxing Chang!
 - *2022.09*: "Federated Fuzzy Neural Networks with Evolutionary Rule Learning" has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029) Congratulation to Leijie Zhang!
 - *2022.07*: "Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation" has been accepted by ACM Multimedia 2022 (CCF A). Congratulation to Juze Zhang!
@@ -49,7 +47,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 - *2021.07*: One paper (First author) has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
 - *2021.05*: One paper (First author) has been published in Applied Energy. (Impact factor 9.746)
 - *2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)
-- *2021.01*: Dr Ye Shi joined ShanghaiTech as an Tenure-track Assistant Professor.
+- *2021.01*: Dr Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.
 
 # 📝 Publications 
 
@@ -223,7 +221,7 @@ School of Information Science and Technology, ShanghaiTech University.
 - *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia.
 - *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia.
 - *2016* Best Paper Award, the 6th IEEE International Conference on Control Systems, Computing and Engineering, Malaysia.
-- *2016* ARC Discovery Scholarship, University of Technology Sydney, 2014-2016, Australia.
+- *2016* ARC Discovery Scholarship, the University of Technology Sydney, 2014-2016, Australia.
 - *2016* International Research Scholarships, University of Technology Sydney, 2014-2016, Australia.
 - *2013* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America.
 - *2012* First Prize of Chinese Undergraduate Mathematical Contest for Modeling (CUMCM), China Society for Industrial and Applied Mathematics, China.
@@ -241,8 +239,9 @@ School of Information Science and Technology, ShanghaiTech University.
 - **Session Chair**
 The 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2019).
 - **Program committee**
+  + The 37th Conference on Neural Information Processing Systems (NeurIPS 2023).
   + The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).
-  + The 33rd Australasian Joint Conference on Artificial Intelligence (AJCAI 2020).
+  + The 33rd Australasian Joint Conference on Artificial Intelligence (AJCAI 2020). 
 - **Reviewer**
   + IEEE Journal on Selected Areas in Communications
   + IEEE Transactions on Fuzzy System
