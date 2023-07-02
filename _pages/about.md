@@ -243,6 +243,9 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).
   + The 33rd Australasian Joint Conference on Artificial Intelligence (AJCAI 2020). 
 - **Reviewer**
+  + IEEE Transactions on Neural Networks and Learning Systems
+  + IEEE Transactions on Image Processing
+  + IEEE Journal on Selected Areas in Communications
   + IEEE Journal on Selected Areas in Communications
   + IEEE Transactions on Fuzzy System
   + IEEE Transactions on Smart Grid
@@ -252,10 +255,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Information Sciences
   + Applied Soft Computing
   + IEEE Systems Journal
-  + IET Generation Transmission & Distribution
-  + IET Smart Grid
-  + Energies, ICARCV 2019
-  + ICARCV 2020
+  + ICARCV 2019, ICARCV 2020
 
 # 🧑‍🏫 Teaching
 - Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn.
@@ -264,6 +264,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 # 🧑‍🎓 Group
 - **Ph.D. Students**
   + Bikang Pan (2023 Fall - present): B.E. in Computer Science, ShanghaiTech University.
+  + Jiebao Zhang (2023 Fall - present): M.S. in Computer Science, Yunnan University.
 - **Master Students**
   + Haixiang Sun (2021 Fall - present): B.S. in Management Science and Engineering, Beijing Forestry University, Outstanding Graduates in Beijing. 
   + Pengchao Tian (2021 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
@@ -276,6 +277,6 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Jiangnan Tang (2022 Fall - present): B.E. in Software Engineering, Beijing University of Posts and Telecommunications.
   + Lingxiao Yang (2023 Fall - present): B.E. in Software Engineering, Northeastern University.
   + Haoyu Yan (2023 Fall - present): B.E. in Electronic Information Engineering, Wuhan University of Technology.
-- **Alumni**
-  + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University. 
+- **Visiting Students**
+  + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.  
 
