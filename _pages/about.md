@@ -28,7 +28,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 # 🔊 Position Openings
 - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
 - **Undergraduates/Visting Students:** We warmly encourage students (from ShanghaiTech or other Universities) studying at Computer Science and Technology, Information and Communication Engineering, and other related disciplines to join our group;
-- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A master degree in mathematics, computer science, machine learning, electrical engineering, control, big data or related areas is required.
+- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A master's degree in mathematics, computer science, machine learning, electrical engineering, control, big data or related areas is required.
 
 # 🔥 News
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai! -->
@@ -47,7 +47,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 - *2021.07*: One paper (First author) has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
 - *2021.05*: One paper (First author) has been published in Applied Energy. (Impact factor 9.746)
 - *2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)
-- *2021.01*: Dr Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.
+- *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.
 
 # 📝 Publications 
 
@@ -56,7 +56,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 **FedTP: Federated Learning by Transformer Personalization, IEEE Transactions on Neural Networks and Learning Systems, 2023**
 
-Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Chin-Teng Lin, **Ye Shi\***
+Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Weipng Ding, Chin-Teng Lin, **Ye Shi\***
 
 [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130784) [[**code**]](https://github.com/zhyczy/FedTP)
 
