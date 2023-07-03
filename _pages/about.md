@@ -277,6 +277,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Jiangnan Tang (2022 Fall - present): B.E. in Software Engineering, Beijing University of Posts and Telecommunications.
   + Lingxiao Yang (2023 Fall - present): B.E. in Software Engineering, Northeastern University.
   + Haoyu Yan (2023 Fall - present): B.E. in Electronic Information Engineering, Wuhan University of Technology.
+  + Zichen Jin (2023 Fall - present): B.E. in Software Engineering, Northeastern University.
 - **Visiting Students**
   + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.  
 
