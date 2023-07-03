@@ -26,7 +26,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 
 # 🔊 Position Openings
-- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
+- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
 - **Undergraduates/Visting Students:** We warmly encourage students (from ShanghaiTech or other Universities) studying at Computer Science and Technology, Information and Communication Engineering, and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A master's degree in mathematics, computer science, machine learning, electrical engineering, control, big data or related areas is required.
 
@@ -217,6 +217,7 @@ School of Information Science and Technology, ShanghaiTech University.
   + Supervisor: Prof. Andrey V. Savkin, E-mail: a.savkin@unsw.edu.au
 
 # 🎖️ Awards
+- *2021* Best Student Paper Award (Corresponding author) at Australia Artificial Intelligence Institute. 
 - *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
 - *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia.
 - *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia.
