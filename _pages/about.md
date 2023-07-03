@@ -207,7 +207,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 - *2009.09 - 2013.06*, B.S., Northwestern Polytechnical University, Xi'an, China. 
 
 # 💻 Work Experience
-- **Work Experience** (2021。01 -now): 
+- **Tenure-track Assistant Professor** (2021.01 -now): 
 School of Information Science and Technology, ShanghaiTech University.
 - **Postdoctoral Fellow** (2019.07-2020.12):  
   + Australian Artificial Intelligence Institute, School of Computer Science, University of Technology Sydney.
