@@ -28,7 +28,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 # 🔊 Position Openings
 - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
 - **Undergraduates/Visting Students:** We warmly encourage students (from ShanghaiTech or other Universities) studying at Computer Science and Technology, Information and Communication Engineering, and other related disciplines to join our group;
-- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A master's degree in mathematics, computer science, machine learning, electrical engineering, control, big data or related areas is required.
+- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachorlar or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
 # 🔥 News
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai! -->
@@ -245,15 +245,20 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + IEEE Transactions on Neural Networks and Learning Systems
   + IEEE Transactions on Image Processing
   + IEEE Journal on Selected Areas in Communications
-  + IEEE Journal on Selected Areas in Communications
   + IEEE Transactions on Fuzzy System
   + IEEE Transactions on Smart Grid
   + IEEE Transactions on Power System
+  + IEEE Transactions on Sustainable Energy
   + IEEE Transactions on Industrial Informatics
   + IEEE Transactions on Industrial Electronics
+  + IEEE Transactions on Intelligent Vehicles
+  + IEEE Transactions on Instrumentation & Measurement
+  + IEEE Journal of Biomedical and Health Informatics
+  + IEEE/CAA Journal of Automatica Sinica
+  + IEEE Systems Journal
+  + International Journal of Robust and Nonlinear Control
   + Information Sciences
   + Applied Soft Computing
-  + IEEE Systems Journal
   + ICARCV 2019, ICARCV 2020
 
 # 🧑‍🏫 Teaching
