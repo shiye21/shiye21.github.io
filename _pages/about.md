@@ -226,8 +226,6 @@ School of Information Science and Technology, ShanghaiTech University.
 - *2016* International Research Scholarships, University of Technology Sydney, 2014-2016, Australia.
 - *2013* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America.
 - *2012* First Prize of Chinese Undergraduate Mathematical Contest for Modeling (CUMCM), China Society for Industrial and Applied Mathematics, China.
-- *2011* First-class Scholarship, Northwestern Polytechnical University, China.
-- *2010* Merit Student Award, Northwestern Polytechnical University, China.
 - *2010* National Scholarship, Chinese Ministry of Education, China.
 
 # 💬 Talks
