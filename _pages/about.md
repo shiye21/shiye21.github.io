@@ -51,6 +51,21 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications/ICCV23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Knowledge-Aware Federated Active Learning with Non-IID Data, ICCV, 2023**
+
+Yu-Tong Cao, **Ye Shi**, Jingya Wang, Baosheng Yu, Dacheng Tao
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/publications/IJCAI23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**StackFLOW: Monocular Human-Object Reconstruction by Stacked Normalizing Flow with Offset, IJCAI, 2023**
+
+Chaofan Huo, **Ye Shi**, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/publications/FedTP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,11 +74,6 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Weipng Ding, Chin-Teng Lin, **Ye Shi\***
 
 [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130784) [[**code**]](https://github.com/zhyczy/FedTP)
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/NeuralDome.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
