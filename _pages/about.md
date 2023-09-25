@@ -113,6 +113,9 @@ Chunlin Yu, **Ye Shi**, Jingya Wang
 
 Yu-Tong Cao, **Ye Shi**, Jingya Wang, Baosheng Yu, Dacheng Tao
 
+[[**paper**]](https://arxiv.org/pdf/2211.13579.pdf) 
+[[**code**]](https://github.com/ycao5602/KAFAL)
+
 </div>
 </div>
 
@@ -122,6 +125,8 @@ Yu-Tong Cao, **Ye Shi**, Jingya Wang, Baosheng Yu, Dacheng Tao
 **StackFLOW: Monocular Human-Object Reconstruction by Stacked Normalizing Flow with Offset, IJCAI, 2023**
 
 Chaofan Huo, **Ye Shi**, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang
+
+[[**paper**]](https://www.ijcai.org/proceedings/2023/0100.pdf) [[**project**]](https://huochf.github.io/StackFLOW/) [[**code**]](https://github.com/huochf/StackFLOW)
 
 </div>
 </div>
