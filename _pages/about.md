@@ -32,6 +32,11 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 # 🔥 News
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai! -->
+- *2023.09*: "Reduced Policy Optimization for Continuous Control with Hard Constraints" has been accepted by NeurIPS 2023. Congratulation to Shutong Ding!
+- *2023.09*: "Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation" has been accepted by NeurIPS 2023. Congratulation to Shutong Ding and Tianyu Cui!
+- *2023.09*: "CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels" has been accepted by NeurIPS 2023. Congratulation to Wanxing Chang!
+- *2023.09*: "Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning" has been accepted by NeurIPS 2023. Congratulation to Zhongyi Cai!
+- *2023.09*: "Contextually Affinitive Neighborhood Refinery for Deep Clustering" has been accepted by NeurIPS 2023. Congratulation to Chunlin Yu!
 - *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai!
 - *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by CVPR 2023 (CCF A). Congratulation to Juze Zhang!
 - *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by IEEE Transactions on Cybernetics, 2023. (Impact factor 19.118) Congratulation to Leijie Zhang!
@@ -50,6 +55,56 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 - *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Ding' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reduced Policy Optimization for Continuous Control with Hard Constraints, NeurIPS 2023**
+
+Shutong Ding, Jingya Wang, Yali Du, **Ye Shi\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Ding&Cui.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation, NeurIPS 2023**
+
+Shutong Ding\#, Tianyu Cui\#, Jingya Wang, **Ye Shi\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Chang.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels, NeurIPS 2023**
+
+Wanxing Chang, **Ye Shi**, Jingya Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Cai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning, NeurIPS 2023**
+
+Zhongyi Cai, **Ye Shi\***, Wei Huang, Jingya Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Yu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Contextually Affinitive Neighborhood Refinery for Deep Clustering, NeurIPS 2023**
+
+Chunlin Yu, **Ye Shi**, Jingya Wang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications/ICCV23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
