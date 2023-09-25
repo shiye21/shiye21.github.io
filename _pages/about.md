@@ -56,7 +56,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Ding' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Ding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Reduced Policy Optimization for Continuous Control with Hard Constraints, NeurIPS 2023**
@@ -66,7 +66,7 @@ Shutong Ding, Jingya Wang, Yali Du, **Ye Shi\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Ding&Cui.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Ding&Cui.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation, NeurIPS 2023**
@@ -76,7 +76,7 @@ Shutong Ding\#, Tianyu Cui\#, Jingya Wang, **Ye Shi\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Chang.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Chang.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels, NeurIPS 2023**
@@ -86,7 +86,7 @@ Wanxing Chang, **Ye Shi**, Jingya Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Cai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Cai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning, NeurIPS 2023**
@@ -96,7 +96,7 @@ Zhongyi Cai, **Ye Shi\***, Wei Huang, Jingya Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/NeurIPS2023/NeurIPS2023_Yu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Yu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Contextually Affinitive Neighborhood Refinery for Deep Clustering, NeurIPS 2023**
