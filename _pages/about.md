@@ -17,37 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Ye Shi received the B.S. degree at Northwestern Polytechnical University, China in 2013 and the Ph.D. degree at University of Technology Sydney (UTS), Australia in 2018. His Ph.D. is under the supervision of Prof. Tuan D. Hoang, who is an expert in the field of control and optimization. Dr Shi served as a Research Assistant at the University of New South Wales, Australia from 2017 to 2019, and a Postdoctoral Fellow at the University of Technology Sydney from 2019 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021.
+Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS), Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia from 2017 to 2019, and a Postdoctoral Fellow at the University of Technology Sydney from 2019 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021.
 
 # ✡️ Research Interests
-My current research interests mainly focus on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, and on the fundamental optimizations underlying them. I am interested in developing AI algorithms that are more robust, more privacy-preserving and more memory-efficient compared to traditional deep learning methods. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learn to optimize, AI for Drug Discovery, AI for Carbon Neutrality, etc.
+My current research interests mainly focus on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, and on the fundamental optimizations underlying them. I am interested in developing AI algorithms that are more reliable, more robust, more privacy-preserving and more memory-efficient compared to traditional deep learning methods. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learn to optimize, AI for Drug Discovery, AI for Carbon Neutrality, etc.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔊 Position Openings
-- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
+- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
 - **Undergraduates/Visting Students:** We warmly encourage students (from ShanghaiTech or other Universities) studying at Computer Science and Technology, Information and Communication Engineering, and other related disciplines to join our group;
-- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachorlar or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
+- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
 # 🔥 News
-<!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai! -->
-- *2023.09*: "Reduced Policy Optimization for Continuous Control with Hard Constraints" has been accepted by NeurIPS 2023. Congratulation to Shutong Ding!
-- *2023.09*: "Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation" has been accepted by NeurIPS 2023. Congratulation to Shutong Ding and Tianyu Cui!
+<!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2023.12*: Two Papers accepted by AAAI 2024. 
+- *2023.11*: I gave a talk at RLChina 2023: "Towards Responsible Decision and Control via Implicit Networks".
+- *2023.10*: Our students Shutong Ding, Tianyu Cui, and Wanxing Chang received the NeurIPS 2023 Scholar Award. Big Congratulations!  
+- *2023.09*: "Reduced Policy Optimization for Continuous Control with Hard Constraints" has been accepted by NeurIPS 2023. Congratulations to Shutong Ding!
+- *2023.09*: "Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation" has been accepted by NeurIPS 2023. Congratulations to Shutong Ding and Tianyu Cui!
 - *2023.09*: "CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels" has been accepted by NeurIPS 2023. Congratulation to Wanxing Chang!
-- *2023.09*: "Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning" has been accepted by NeurIPS 2023. Congratulation to Zhongyi Cai!
-- *2023.09*: "Contextually Affinitive Neighborhood Refinery for Deep Clustering" has been accepted by NeurIPS 2023. Congratulation to Chunlin Yu!
-- *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai!
-- *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by CVPR 2023 (CCF A). Congratulation to Juze Zhang!
-- *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by IEEE Transactions on Cybernetics, 2023. (Impact factor 19.118) Congratulation to Leijie Zhang!
-- *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by ICLR 2023 (CCF A). Congratulation to Haixiang Sun!
-- *2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulation to Juze Zhang!
-- *2022.11*: "Beyond Rehearsal: Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulation to Chunlin Yu!
+- *2023.09*: "Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning" has been accepted by NeurIPS 2023. Congratulations to Zhongyi Cai!
+- *2023.09*: "Contextually Affinitive Neighborhood Refinery for Deep Clustering" has been accepted by NeurIPS 2023. Congratulations to Chunlin Yu!
+- *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai!
+- *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by CVPR 2023 (CCF A). Congratulations to Juze Zhang!
+- *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by IEEE Transactions on Cybernetics, 2023. (Impact factor 19.118) Congratulations to Leijie Zhang!
+- *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by ICLR 2023 (CCF A). Congratulations to Haixiang Sun!
+- *2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulations to Juze Zhang!
+- *2022.11*: "Beyond Rehearsal: Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulations to Chunlin Yu!
 - *2022.10*: "Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy" has been accepted by ICCAIS 2022 as an oral. The first author is our undergraduate student Qi Li. Congratulations!
 - *2022.09*: "Unified Optimal Transport Framework for Universal Domain Adaptation" has been accepted by NeurIPS 2022 (CCF A) as a Spotlight. Congratulation to Wanxing Chang!
-- *2022.09*: "Federated Fuzzy Neural Networks with Evolutionary Rule Learning" has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029) Congratulation to Leijie Zhang!
-- *2022.07*: "Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation" has been accepted by ACM Multimedia 2022 (CCF A). Congratulation to Juze Zhang!
-- *2021.12*: One paper (Corresponding author) received the Best Student Paper Award at Australia Artificial Intelligence Institute.
+- *2022.09*: "Federated Fuzzy Neural Networks with Evolutionary Rule Learning" has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029) Congratulations to Leijie Zhang!
+- *2022.07*: "Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation" has been accepted by ACM Multimedia 2022 (CCF A). Congratulations to Juze Zhang!
+- *2021.12*: One paper (Corresponding author) received the Best Student Paper Award at the Australia Artificial Intelligence Institute.
 - *2021.08*: One paper has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
 - *2021.07*: One paper (First author) has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
 - *2021.05*: One paper (First author) has been published in Applied Energy. (Impact factor 9.746)
