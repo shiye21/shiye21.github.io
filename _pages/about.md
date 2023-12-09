@@ -22,7 +22,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 # ✡️ Research Interests
 My current research interests mainly focus on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, and on the fundamental optimizations underlying them. I am interested in developing AI algorithms that are more reliable, more robust, more privacy-preserving and more memory-efficient compared to traditional deep learning methods. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learn to optimize, AI for Drug Discovery, AI for Carbon Neutrality, etc.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔊 Position Openings
@@ -40,6 +40,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 - *2023.09*: "CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels" has been accepted by NeurIPS 2023. Congratulation to Wanxing Chang!
 - *2023.09*: "Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning" has been accepted by NeurIPS 2023. Congratulations to Zhongyi Cai!
 - *2023.09*: "Contextually Affinitive Neighborhood Refinery for Deep Clustering" has been accepted by NeurIPS 2023. Congratulations to Chunlin Yu!
+- *2023.09*: Five Papers accepted by NeurIPS 2023. 
 - *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai!
 - *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by CVPR 2023 (CCF A). Congratulations to Juze Zhang!
 - *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by IEEE Transactions on Cybernetics, 2023. (Impact factor 19.118) Congratulations to Leijie Zhang!
