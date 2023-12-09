@@ -26,7 +26,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 
 # 🔊 Position Openings
-- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
+- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
 - **Undergraduates/Visting Students:** We warmly encourage students (from ShanghaiTech or other Universities) studying at Computer Science and Technology, Information and Communication Engineering, and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
@@ -58,6 +58,25 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 - *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24_pot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport, AAAI 2024**
+
+Bin Li, **Ye Shi\***, Qian Yu, Jingya Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24_gait.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations, AAAI 2024**
+
+Yilan Dong, Chunlin Yu, Ruiyang Ha, **Ye Shi\***, Yuexin Ma, Lan Xu, Yanwei Fu, Jingya Wang
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Ding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -297,7 +316,8 @@ School of Information Science and Technology, ShanghaiTech University.
   + School of Electrical Engineering and Telecommunications, Faculty of Engineering, University of New South Wales.
   + Supervisor: Prof. Andrey V. Savkin, E-mail: a.savkin@unsw.edu.au
 
-# 🎖️ Awards
+# 🎖️ Awards 
+- *2024* My students received the NeurIPS 2023 Scholar Award. 
 - *2021* Best Student Paper Award (Corresponding author) at Australia Artificial Intelligence Institute. 
 - *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
 - *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia.
@@ -305,11 +325,12 @@ School of Information Science and Technology, ShanghaiTech University.
 - *2016* Best Paper Award, the 6th IEEE International Conference on Control Systems, Computing and Engineering, Malaysia.
 - *2016* ARC Discovery Scholarship, the University of Technology Sydney, 2014-2016, Australia.
 - *2016* International Research Scholarships, University of Technology Sydney, 2014-2016, Australia.
-- *2013* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America.
+- *2013* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America. 
 - *2012* First Prize of Chinese Undergraduate Mathematical Contest for Modeling (CUMCM), China Society for Industrial and Applied Mathematics, China.
 - *2010* National Scholarship, Chinese Ministry of Education, China.
 
-# 💬 Talks
+# 💬 Talks 
+- *2023.11*, Towards Responsible Decision and Control via Implicit Networks, RLChina 2023.
 - *2019.10*, Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, Beijing.
 - *2018.04*, Nonconvex and nonsmooth optimization in smart grids, International Forum for Interdisciplinary Sciences and Engineering Open Forum, Wuhan University.
 - *2016.11*, Nonconvex Spectral Algorithm for Solving BMI on the Reduced Order H∞ Control, IEEE International Conference on Control Systems, Computing and Engineering, Penang, Malaysia.
@@ -319,9 +340,8 @@ School of Information Science and Technology, ShanghaiTech University.
 - **Session Chair**
 The 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2019).
 - **Program committee**
-  + The 37th Conference on Neural Information Processing Systems (NeurIPS 2023).
-  + The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).
-  + The 33rd Australasian Joint Conference on Artificial Intelligence (AJCAI 2020). 
+  + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024.
+
 - **Reviewer**
   + IEEE Transactions on Neural Networks and Learning Systems
   + IEEE Transactions on Image Processing
@@ -340,7 +360,6 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + International Journal of Robust and Nonlinear Control
   + Information Sciences
   + Applied Soft Computing
-  + ICARCV 2019, ICARCV 2020
 
 # 🧑‍🏫 Teaching
 - Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn.
@@ -348,21 +367,21 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 
 # 🧑‍🎓 Group
 - **Ph.D. Students**
-  + Bikang Pan (2023 Fall - present): B.E. in Computer Science, ShanghaiTech University.
-  + Jiebao Zhang (2023 Fall - present): M.S. in Computer Science, Yunnan University.
+  + Bikang Pan (2023 Fall - present): B.E. at ShanghaiTech University.
+  + Jiebao Zhang (2023 Fall - present): M.S. at Yunnan University.
 - **Master Students**
-  + Haixiang Sun (2021 Fall - present): B.S. in Management Science and Engineering, Beijing Forestry University, Outstanding Graduates in Beijing. 
-  + Pengchao Tian (2021 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
-  + Hongxia Li (2021 Fall - present): B.S. in Statistics, Nanjing University of Science and Technology.
-  + Wanxing Chang (2021 Fall - present, jointly with Jingya Wang): B.E. in Biomedical Engineering, University of Electronic Science and Technology of China.
-  + Zhongyi Cai (2021 Fall - present, jointly with Jingya Wang): B.E. in Computer Science, ShanghaiTech University. 
-  + Shutong Ding (2022 Fall - present): B.E. in Computer Science, Fuzhou University.
-  + Xinru Xu (2022 Fall - present): B.E. in Computer Science, ShanghaiTech University. 
-  + Tianyu Cui (2022 Fall - present): B.S. in Physics, University of Science and Technology of China. 
-  + Jiangnan Tang (2022 Fall - present): B.E. in Software Engineering, Beijing University of Posts and Telecommunications.
-  + Lingxiao Yang (2023 Fall - present): B.E. in Software Engineering, Northeastern University.
-  + Haoyu Yan (2023 Fall - present): B.E. in Electronic Information Engineering, Wuhan University of Technology.
-  + Zichen Jin (2023 Fall - present): B.E. in Software Engineering, Northeastern University.
+  + Haixiang Sun (2021 Fall - present): B.S. at Beijing Forestry University, Outstanding Graduate in Beijing. 
+  + Pengchao Tian (2021 Fall - present): B.E. at ShanghaiTech University. 
+  + Hongxia Li (2021 Fall - present): B.S. at Nanjing University of Science and Technology.
+  + Wanxing Chang (2021 Fall - present, jointly with Jingya Wang): B.E. at the University of Electronic Science and Technology of China.
+  + Zhongyi Cai (2021 Fall - present, jointly with Jingya Wang): B.E. at ShanghaiTech University. 
+  + Shutong Ding (2022 Fall - present): B.E. at Fuzhou University.
+  + Xinru Xu (2022 Fall - present): B.E. at ShanghaiTech University. 
+  + Tianyu Cui (2022 Fall - present): B.S. at the University of Science and Technology of China. 
+  + Jiangnan Tang (2022 Fall - present): B.E. at Beijing University of Posts and Telecommunications.
+  + Lingxiao Yang (2023 Fall - present): B.E. at Northeastern University.
+  + Haoyu Yan (2023 Fall - present): B.E. at Wuhan University of Technology.
+  + Zichen Jin (2023 Fall - present): B.E. at Northeastern University. 
 - **Visiting Students**
   + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.  
 
