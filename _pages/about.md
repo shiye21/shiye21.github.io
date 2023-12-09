@@ -65,7 +65,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 **Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport, AAAI 2024**
 
-Bin Li, **Ye Shi\***, Qian Yu, Jingya Wang
+Bin Li, **Ye Shi**, Qian Yu, Jingya Wang
 
 </div>
 </div>
@@ -75,7 +75,7 @@ Bin Li, **Ye Shi\***, Qian Yu, Jingya Wang
 
 **HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations, AAAI 2024**
 
-Yilan Dong, Chunlin Yu, Ruiyang Ha, **Ye Shi\***, Yuexin Ma, Lan Xu, Yanwei Fu, Jingya Wang
+Yilan Dong, Chunlin Yu, Ruiyang Ha, **Ye Shi**, Yuexin Ma, Lan Xu, Yanwei Fu, Jingya Wang
 </div>
 </div>
 
