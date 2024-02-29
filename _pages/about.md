@@ -32,6 +32,8 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 # 🔥 News
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2024.2*: Three Papers accepted by CVPR 2024. 
+- *2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by ICLR 2024. 
 - *2023.12*: Two Papers accepted by AAAI 2024. 
 - *2023.11*: I gave a talk at RLChina 2023: "Towards Responsible Decision and Control via Implicit Networks".
 - *2023.10*: Our students Shutong Ding, Tianyu Cui, and Wanxing Chang received the NeurIPS 2023 Scholar Award. Big Congratulations!  
