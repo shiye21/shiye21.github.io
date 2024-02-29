@@ -62,7 +62,7 @@ My current research interests mainly focus on Artificial Intelligence, Machine l
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-FedOTP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-FedOTP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Global and Local Prompts Cooperation via Optimal Transport for Federated Learning, CVPR 2024**
@@ -72,7 +72,7 @@ Hongxia Li, Wei Huang, Jingya Wang, **Ye Shi\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-S2Fusion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-S2Fusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **$\text{S}^2$Fusion: A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals, CVPR 2024**
@@ -82,7 +82,7 @@ Jiangnan Tang, Jingya Wang, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-HOI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-HOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment, CVPR 2024**
@@ -92,7 +92,7 @@ Juze Zhang, Jingyan Zhang, Zining Song, Zhanhe Shi, Chengfeng Zhao, **Ye Shi**, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24-Fed.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24-Fed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory, ICLR 2024**
