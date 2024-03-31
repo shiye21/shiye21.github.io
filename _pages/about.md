@@ -62,7 +62,7 @@ Our recent research interests mainly focus on Diffusion, Embodied AI, 3D Vision,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/CVPR24-FedOTP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Guidance with Spherical Gaussian Constraint for Conditional Diffusion, arXiv:2402.03201**
