@@ -23,7 +23,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 - **Embodied AI:** reliable generative models, open-world 3D perception, safe decision-making and control, learning with noise; 
 
-- **Federated Learning:** heterogeneity, personalization, generalization, robustness; 
+- **Federated Learning:** heterogeneity, personalization, generalization, robustness, pre-trained models; 
 
 - **Basics for Deep Learning:** implicit differentiation, optimization layer, deep equilibrium models, convergence and generalization analysis; 
 
