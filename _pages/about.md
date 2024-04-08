@@ -25,7 +25,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 - **Federated Learning:** heterogeneity, personalization, generalization, robustness; 
 
-- **Basic Theory and Algorithm for Deep Learning:** implicit differentiation, optimization layer, deep equilibrium models, convergence and generalization analysis; 
+- **Basics for Deep Learning:** implicit differentiation, optimization layer, deep equilibrium models, convergence and generalization analysis; 
 
 - **Smart Energy**: learning to optimize and control, safe reinforcement learning, distributed decision-making, and control with uncertainties; 
 
