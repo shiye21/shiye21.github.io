@@ -29,7 +29,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 - **Smart Energy**: learning to optimize and control, safe reinforcement learning, distributed decision-making, and control with uncertainties; 
 
-- **Quantum Computing**: quantum annealing, quantum machine learning. 
+<!-- **Quantum Computing**: quantum annealing, quantum machine learning. -->
 
 <!-- Our recent research interests mainly focus on Diffusion, Embodied AI, 3D Vision, Reinforcement Learning, Federated Learning, Smart Energy, and on the fundamental optimizations underlying them. We are interested in developing AI algorithms that are more reliable, more robust, more privacy-preserving and more memory-efficient AI models. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learning to optimize, AI for Carbon Neutrality, etc. -->
 
@@ -40,8 +40,9 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 - **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
-# 🔥 News
+# 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications". 
 - *2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li! (This paper was submitted when Qi Li was still a bachelor student.) 
 - *2024.2*: Three Papers accepted by CVPR 2024. 
 - *2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by ICLR 2024. 
