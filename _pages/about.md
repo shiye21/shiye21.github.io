@@ -19,19 +19,30 @@ redirect_from:
 
 Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS), Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia from 2017 to 2019, and a Postdoctoral Fellow at the University of Technology Sydney from 2019 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021.
 
-# ✡️ Research Interests
-Our recent research interests mainly focus on Diffusion, Embodied AI, 3D Vision, Reinforcement Learning, Federated Learning, Smart Energy, and on the fundamental optimizations underlying them. We are interested in developing AI algorithms that are more reliable, more robust, more privacy-preserving and more memory-efficient AI models. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learning to optimize, AI for Carbon Neutrality, etc. 
+# ✡️ Research Interests 
+
+-Embodied AI: 3D perception and reconstruction, reliable generative models, safe decision-making and control, learning with noise, domain generalization; 
+
+-Federated Learning: heterogeneity, personalization, generalization, robustness; 
+
+-Basic Theory and Algorithm for Deep Learning: implicit differentiation, optimization layer, deep equilibrium models, convergence and generalization analysis; 
+
+-Smart Energy: learning to optimize and control, safe reinforcement learning, distributed decision-making, and control with uncertainties; 
+
+-Quantum Computing: quantum annealing, quantum machine learning. 
+
+<!-- Our recent research interests mainly focus on Diffusion, Embodied AI, 3D Vision, Reinforcement Learning, Federated Learning, Smart Energy, and on the fundamental optimizations underlying them. We are interested in developing AI algorithms that are more reliable, more robust, more privacy-preserving and more memory-efficient AI models. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learning to optimize, AI for Carbon Neutrality, etc. -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔊 Position Openings 
 - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
-- **Undergraduates/Visting Students:** We warmly encourage students (from ShanghaiTech or other Universities) studying at Computer Science and Technology, Information and Communication Engineering, and other related disciplines to join our group;
+- **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
 # 🔥 News
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
-- *2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li! (The paper was submitted when Qi Li was still a bachelor's student.) 
+- *2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li! (This paper was submitted when Qi Li was still a bachelor student.) 
 - *2024.2*: Three Papers accepted by CVPR 2024. 
 - *2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by ICLR 2024. 
 - *2023.12*: Two Papers accepted by AAAI 2024. 
@@ -60,7 +71,7 @@ Our recent research interests mainly focus on Diffusion, Embodied AI, 3D Vision,
 - *2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)
 - *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -318,39 +329,39 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 </div>
 </div>
 
-- **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan, accepted by ICCAIS 2022 (Oral). [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
+- **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan, ICCAIS 2022 (Oral). [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
   
-- **Distributed model predictive control for joint coordination of demand response and optimal power flow with renewables in smart grid**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Chin-Teng Lin, Jian Guo Zhu, H. Vincent Poor, accepted by  Applied Energy, 2021. [[**paper**]](https://www.sciencedirect.com/science/article/pii/S0306261921002245)
+- **Distributed model predictive control for joint coordination of demand response and optimal power flow with renewables in smart grid**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Chin-Teng Lin, Jian Guo Zhu, H. Vincent Poor, Applied Energy, 2021. [[**paper**]](https://www.sciencedirect.com/science/article/pii/S0306261921002245)
   
-- **Hierarchical fuzzy neural networks with privacy preservation on heterogeneous big data**, Leijie Zhang\#, **Ye Shi\#\***, Yu-Cheng Chang, and Chin-Teng Lin, accepted by IEEE Transactions on Fuzzy Systems, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186813) [[**code**]](https://github.com/leijiezhang/PP_HFNN)
+- **Hierarchical fuzzy neural networks with privacy preservation on heterogeneous big data**, Leijie Zhang\#, **Ye Shi\#\***, Yu-Cheng Chang, and Chin-Teng Lin, IEEE Transactions on Fuzzy Systems, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186813) [[**code**]](https://github.com/leijiezhang/PP_HFNN)
   
-- **PMU Placement Optimization for Efficient State Estimation in Smart Grid**, **Ye Shi**, Hoang Duong Tuan\*, Trung Q. Duong, H. Vincent Poor and Andrey V. Savkin, accepted by IEEE Journal on Selected Areas in Communications, 2020. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892535)
+- **PMU Placement Optimization for Efficient State Estimation in Smart Grid**, **Ye Shi**, Hoang Duong Tuan\*, Trung Q. Duong, H. Vincent Poor and Andrey V. Savkin, IEEE Journal on Selected Areas in Communications, 2020. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892535)
 
-- **Parameterized bilinear matrix inequality techniques for H ∞ gain-scheduling proportional integral derivative control design**, **Ye Shi**, Hoang Duong Tuan\* and Pierre Apkarian, accepted by International Journal of Robust and Nonlinear Control, 2020. [[**paper**]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.4979)
+- **Parameterized bilinear matrix inequality techniques for H ∞ gain-scheduling proportional integral derivative control design**, **Ye Shi**, Hoang Duong Tuan\* and Pierre Apkarian, International Journal of Robust and Nonlinear Control, 2020. [[**paper**]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.4979)
   
-- **Consensus learning for distributed fuzzy neural network in big data environment**, **Ye Shi\***, Chin-Teng Lin, Yu-Cheng Chang, Weiping Ding, Yuhui Shi and Xin Yao, accepted by IEEE Transactions on Emerging Topics in Computational Intelligence, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112660)
+- **Consensus learning for distributed fuzzy neural network in big data environment**, **Ye Shi\***, Chin-Teng Lin, Yu-Cheng Chang, Weiping Ding, Yuhui Shi and Xin Yao, IEEE Transactions on Emerging Topics in Computational Intelligence, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112660)
   
-- **Deep- IRTarget: An Automatic Target Detector in Infrared Imagery using Dual-domain Feature Extraction and Allocation**, Ruiheng Zhang, Lixin Xu, Zhengyu Yu, **Ye Shi**, Chengpo Mu, Min Xu\*, accepted by IEEE Transactions on Multimedia, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9398929)
+- **Deep- IRTarget: An Automatic Target Detector in Infrared Imagery using Dual-domain Feature Extraction and Allocation**, Ruiheng Zhang, Lixin Xu, Zhengyu Yu, **Ye Shi**, Chengpo Mu, Min Xu\*, IEEE Transactions on Multimedia, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9398929)
 
-- **Interpretable Fuzzy Logic Control for Multi-Robot Coordination in a Cluttered Environment**, Yu-Cheng Chang, **Ye Shi**, Anna Dostovalova, Zehong Cao, Chin-Teng Lin\*, Daniel Gibbons, Jijoong Kim, accepted by IEEE Transactions on Fuzzy Systems, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535292)
+- **Interpretable Fuzzy Logic Control for Multi-Robot Coordination in a Cluttered Environment**, Yu-Cheng Chang, **Ye Shi**, Anna Dostovalova, Zehong Cao, Chin-Teng Lin\*, Daniel Gibbons, Jijoong Kim, IEEE Transactions on Fuzzy Systems, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535292)
   
-- **Model predictive control for on-off Charging of Electrical Vehicles in Smart Grids**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong and H. Vincent Poor, accepted by IET Electrical Systems in Transportation, 2020. [[**paper**]](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/els2.12010)
+<!-- **Model predictive control for on-off Charging of Electrical Vehicles in Smart Grids**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong and H. Vincent Poor, IET Electrical Systems in Transportation, 2020. [[**paper**]](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/els2.12010) -->
   
-- **Mixed integer nonlinear programming for Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations**, **Ye Shi\***, Hoang Duong Tuan, and Andrey V. Savkin, accepted by the 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2019. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909799)
+- **Mixed integer nonlinear programming for Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations**, **Ye Shi\***, Hoang Duong Tuan, and Andrey V. Savkin, the 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2019. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909799)
   
-- **Model Predictive Control for Smart Grids with Multiple Electric-Vehicle Charging Stations**, **Ye Shi**, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong\* and H. Vincent Poor, accepted by IEEE Transaction on Smart Grid, 2019. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8245844)
+- **Model Predictive Control for Smart Grids with Multiple Electric-Vehicle Charging Stations**, **Ye Shi**, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong\* and H. Vincent Poor, IEEE Transaction on Smart Grid, 2019. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8245844)
   
-- **Optimal Power Flow over Large-Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Andrey V. Savkin, Steven W. Su, accepted by Systems & Control Letters, 2018. [[**paper**]](https://www.sciencedirect.com/science/article/pii/S0167691118300938)
+- **Optimal Power Flow over Large-Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Andrey V. Savkin, Steven W. Su, Systems & Control Letters, 2018. [[**paper**]](https://www.sciencedirect.com/science/article/pii/S0167691118300938)
   
-- **Nonconvex Spectral Optimization Algorithms for Reduced-Order H∞ LPV-LFT controllers**, **Ye Shi**, Hoang Duong Tuan\* and Pierre Apkarian, accepted by International Journal of Robust and Nonlinear Control, 2017. [[**paper**]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.3805)
+- **Nonconvex Spectral Optimization Algorithms for Reduced-Order H∞ LPV-LFT controllers**, **Ye Shi**, Hoang Duong Tuan\* and Pierre Apkarian, International Journal of Robust and Nonlinear Control, 2017. [[**paper**]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.3805)
   
-- **Global Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\* , Hoang Tuy and Steven W. Su, accepted by Journal of Global Optimization, 2017. [[**paper**]](https://link.springer.com/article/10.1007/s10898-017-0538-5)
+- **Global Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\* , Hoang Tuy and Steven W. Su, Journal of Global Optimization, 2017. [[**paper**]](https://link.springer.com/article/10.1007/s10898-017-0538-5)
   
-- **Three-phase Optimal Power Flow for Smart Grids by Iterative Nonsmooth Optimization**, **Ye Shi**, Hoang Duong Tuan\*, and Andrey V. Savkin, accepted by the 6th International Conference on Smart Cities and Green ICT Systems, 2017. [[**paper**]](https://opus.lib.uts.edu.au/bitstream/10453/115847/1/TOPF_SmartGreens17.pdf)
+<!-- **Three-phase Optimal Power Flow for Smart Grids by Iterative Nonsmooth Optimization**, **Ye Shi**, Hoang Duong Tuan\*, and Andrey V. Savkin, accepted by the 6th International Conference on Smart Cities and Green ICT Systems, 2017. [[**paper**]](https://opus.lib.uts.edu.au/bitstream/10453/115847/1/TOPF_SmartGreens17.pdf)-->
   
 - **Nonconvex Spectral Algorithm for Solving BMI on the Reduced Order H∞ Control**, **Ye Shi\***, Hoang Duong Tuan, and Steven W. Su, accepted by the 6th IEEE International Conference on Control Systems, Computing and Engineering, 2016. (Best Paper Award) [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7893591)
   
-- **Multiple Matrix Rank Constrained Optimization for Optimal Power Flow over Large Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Steven W. Su, and Andrey V. Savkin, accepted by proceedings of the 5th International Conference on Smart Cities and Green ICT Systems, 2016. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7951375)
+<!-- **Multiple Matrix Rank Constrained Optimization for Optimal Power Flow over Large Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Steven W. Su, and Andrey V. Savkin, accepted by proceedings of the 5th International Conference on Smart Cities and Green ICT Systems, 2016. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7951375) -->
   
 - **Nonsmooth Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi\***, Hoang Duong Tuan, Steven W. Su and H. H. M. Tam, accepted by the 3rd IEEE Global Conference on Signal and Information Processing, 2015. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7418376)
 
