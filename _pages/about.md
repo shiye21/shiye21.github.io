@@ -21,15 +21,15 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 # ✡️ Research Interests 
 
--Embodied AI: 3D perception and reconstruction, reliable generative models, safe decision-making and control, learning with noise, domain generalization; 
+- **Embodied AI:** 3D perception and reconstruction, reliable generative models, safe decision-making and control, learning with noise, domain generalization; 
 
--Federated Learning: heterogeneity, personalization, generalization, robustness; 
+- **Federated Learning:** heterogeneity, personalization, generalization, robustness; 
 
--Basic Theory and Algorithm for Deep Learning: implicit differentiation, optimization layer, deep equilibrium models, convergence and generalization analysis; 
+- **Basic Theory and Algorithm for Deep Learning:** implicit differentiation, optimization layer, deep equilibrium models, convergence and generalization analysis; 
 
--Smart Energy: learning to optimize and control, safe reinforcement learning, distributed decision-making, and control with uncertainties; 
+- **Smart Energy**: learning to optimize and control, safe reinforcement learning, distributed decision-making, and control with uncertainties; 
 
--Quantum Computing: quantum annealing, quantum machine learning. 
+- **Quantum Computing**: quantum annealing, quantum machine learning. 
 
 <!-- Our recent research interests mainly focus on Diffusion, Embodied AI, 3D Vision, Reinforcement Learning, Federated Learning, Smart Energy, and on the fundamental optimizations underlying them. We are interested in developing AI algorithms that are more reliable, more robust, more privacy-preserving and more memory-efficient AI models. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learning to optimize, AI for Carbon Neutrality, etc. -->
 
