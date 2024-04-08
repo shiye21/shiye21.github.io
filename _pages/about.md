@@ -27,7 +27,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 - **Basics for Deep Learning:** implicit differentiation, optimization layer, deep equilibrium models, convergence and generalization analysis; 
 
-- **AI for Energy**: learning to optimize and control, safe reinforcement learning, distributed decision-making, and control with uncertainties; 
+- **AI for Energy**: learning to optimize and control, safe reinforcement learning, distributed decision-making, and control with uncertainties. 
 
 <!-- **Quantum Computing**: quantum annealing, quantum machine learning. -->
 
