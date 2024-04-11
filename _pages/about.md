@@ -48,13 +48,13 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 - *2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by ICLR 2024. 
 - *2023.12*: Two Papers accepted by AAAI 2024. 
 - *2023.11*: I gave a talk at RLChina 2023: "Towards Responsible Decision and Control via Implicit Networks".
+- *2023.09*: Five Papers accepted by NeurIPS 2023. 
 - *2023.10*: Our students Shutong Ding, Tianyu Cui, Wanxing Chang and Chunlin Yu received the **NeurIPS 2023 Scholar Award**. Big Congratulations!  
 - *2023.09*: "Reduced Policy Optimization for Continuous Control with Hard Constraints" has been accepted by NeurIPS 2023. Congratulations to Shutong Ding!
 - *2023.09*: "Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation" has been accepted by NeurIPS 2023. Congratulations to Shutong Ding and Tianyu Cui!
 - *2023.09*: "CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels" has been accepted by NeurIPS 2023. Congratulation to Wanxing Chang!
 - *2023.09*: "Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning" has been accepted by NeurIPS 2023. Congratulations to Zhongyi Cai!
 - *2023.09*: "Contextually Affinitive Neighborhood Refinery for Deep Clustering" has been accepted by NeurIPS 2023. Congratulations to Chunlin Yu!
-- *2023.09*: Five Papers accepted by NeurIPS 2023. 
 - *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! 
 - *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by CVPR 2023 (CCF A). Congratulations to Juze Zhang!
 - *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by IEEE Transactions on Cybernetics, 2023. (Impact factor 19.118) Congratulations to Leijie Zhang!
