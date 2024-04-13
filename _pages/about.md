@@ -58,7 +58,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 - *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by **IEEE Transactions on Neural Networks and Learning Systems**, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! 
 - *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by **CVPR 2023** (CCF A). Congratulations to Juze Zhang!
 - *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by **IEEE Transactions on Cybernetics**, 2023. (Impact factor 19.118) Congratulations to Leijie Zhang!
-- *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by **ICLR 2023** (CCF A). Congratulations to Haixiang Sun!
+- *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by **ICLR 2023** (Core A). Congratulations to Haixiang Sun!
 - *2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by **AAAI 2023** (CCF A) as an Oral. Congratulations to Juze Zhang!
 - *2022.11*: "Beyond Rehearsal: Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation" has been accepted by **AAAI 2023** (CCF A) as an Oral. Congratulations to Chunlin Yu!
 - *2022.10*: "Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy" has been accepted by **ICCAIS 2022** as an oral. The first author is our undergraduate student Qi Li. Congratulations!
