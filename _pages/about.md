@@ -42,6 +42,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2024.5*: Two Papers accepted by **ICML 2024**.  Congratulations to Lingxiao Yang and Tianyu Cui.
 - *2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications". 
 - *2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li! (**This paper was submitted when Qi Li was still an undergraduate student**.) 
 - *2024.2*: Three Papers accepted by **CVPR 2024**. 
@@ -74,12 +75,22 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DSG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/DSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Guidance with Spherical Gaussian Constraint for Conditional Diffusion, arXiv:2402.03201**
+**Guidance with Spherical Gaussian Constraint for Conditional Diffusion, ICML 2024**
 
 Lingxiao Yang, Shutong Ding, Yifan Cai, Jingyi Yu, Jingya Wang, **Ye Shi\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML-FedPGP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Harmonizing Generalization and Personalization in Federated Prompt Learning, ICML 2024**
+
+Tianyu Cui, Hongxia Li, Jingya Wang, **Ye Shi\***
 
 </div>
 </div>
