@@ -95,7 +95,7 @@ Tianyu Cui, Hongxia Li, Jingya Wang, **Ye Shi\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-S2Fusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-FedOTP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Global and Local Prompts Cooperation via Optimal Transport for Federated Learning, CVPR 2024**
