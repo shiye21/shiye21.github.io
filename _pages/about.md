@@ -1,4 +1,4 @@
----
+![image](https://github.com/shiye21/shiye21.github.io/assets/40665727/437a83c1-0d0e-445a-966a-b11461edc67f)![image](https://github.com/shiye21/shiye21.github.io/assets/40665727/f16058c6-b441-4f56-a670-c789d90c5415)---
 permalink: /
 title: "Ye Shi"
 excerpt: ""
@@ -21,13 +21,11 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 # ✡️ Research Interests 
 
-- **Embodied AI:** reliable generative models, open-world 3D perception, safe decision-making and control; 
+- **Trustworthy AI:** controllable diffusion models, reliable reinforcement learning, heterogeneous federated learning;  
 
-- **Federated Learning:** heterogeneity, personalization, generalization, robustness, pre-trained models; 
+- **Deep Learning Basics:** implicit differentiation, optimization layer, deep equilibrium models, optimal transport; 
 
-- **Basics for Deep Learning:** implicit differentiation, optimization layer, deep equilibrium models, convergence and generalization analysis, learning with noise; 
-
-- **AI for Energy**: learning to optimize and control, safe reinforcement learning, distributed decision-making, and control with uncertainties. 
+- **AI & Optimization Applications**: humanoid robot, 3D vision, smart grid, learn to optimize, etc.
 
 <!-- **Quantum Computing**: quantum annealing, quantum machine learning. -->
 
@@ -74,6 +72,15 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 - *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, arXiv:2405.16173**
+Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, **Ye Shi\***
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/DSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -212,7 +219,7 @@ Chunlin Yu, **Ye Shi**, Jingya Wang
 Yu-Tong Cao, **Ye Shi**, Jingya Wang, Baosheng Yu, Dacheng Tao
 
 [[**paper**]](https://arxiv.org/pdf/2211.13579.pdf) 
-[[**code**]](https://github.com/ycao5602/KAFAL)
+[[**code**]](https://github.com/ycao5602/KAFAL) 
 
 </div>
 </div>
