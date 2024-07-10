@@ -1,4 +1,3 @@
-![image](https://github.com/shiye21/shiye21.github.io/assets/40665727/437a83c1-0d0e-445a-966a-b11461edc67f)![image](https://github.com/shiye21/shiye21.github.io/assets/40665727/f16058c6-b441-4f56-a670-c789d90c5415)---
 permalink: /
 title: "Ye Shi"
 excerpt: ""
