@@ -77,6 +77,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 <div class='paper-box-text' markdown="1">
 
 **Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, arXiv:2405.16173**
+
 Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, **Ye Shi\***
 
 </div>
