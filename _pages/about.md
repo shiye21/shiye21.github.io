@@ -25,7 +25,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 - **Deep Learning Basics:** implicit differentiation, optimization layer, deep equilibrium models, optimal transport; 
 
-- **AI & Optimization Applications**: humanoid robot, 3D vision, smart grid, learn to optimize, etc.
+- **AI \& Optimization Applications**: humanoid robot, 3D vision, smart grid, learn to optimize, etc.
 
 <!-- **Quantum Computing**: quantum annealing, quantum machine learning. -->
 
