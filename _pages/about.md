@@ -40,7 +40,8 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
-- *2024.5*: Two Papers accepted by **ICML 2024**.  Congratulations to Lingxiao Yang and Tianyu Cui.
+- *2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 
+- *2024.5*: Two Papers accepted by **ICML 2024**.  Congratulations to Lingxiao Yang and Tianyu Cui. 
 - *2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications". 
 - *2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li! (**This paper was submitted when Qi Li was still an undergraduate student**.) 
 - *2024.2*: Three Papers accepted by **CVPR 2024**. 
@@ -424,7 +425,7 @@ School of Information Science and Technology, ShanghaiTech University.
 - **Session Chair**
 The 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2019).
 - **Program committee**
-  + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024.
+  + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024, ICML 2024, NeurIPS 2024, AAAI 2025. 
 
 - **Reviewer**
   + IEEE Transactions on Neural Networks and Learning Systems
@@ -450,22 +451,30 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 - Course SI152 - **Numerical Optimization**, ShanghaiTech University, 2022 Spring, 2023 Spring.
 
 # 🧑‍🎓 Group
-- **Ph.D. Students**
+- **Ph.D. Students** 
   + Bikang Pan (2023 Fall - present): B.E. at ShanghaiTech University.
   + Jiebao Zhang (2023 Fall - present): M.S. at Yunnan University.
-- **Master Students**
-  + Haixiang Sun (2021 Fall - present): B.S. at Beijing Forestry University, Outstanding Graduate in Beijing. 
-  + Pengchao Tian (2021 Fall - present): B.E. at ShanghaiTech University. 
-  + Hongxia Li (2021 Fall - present): B.S. at Nanjing University of Science and Technology.
-  + Wanxing Chang (2021 Fall - present, jointly with Jingya Wang): B.E. at the University of Electronic Science and Technology of China.
-  + Zhongyi Cai (2021 Fall - present, jointly with Jingya Wang): B.E. at ShanghaiTech University. 
   + Shutong Ding (2022 Fall - present): B.E. at Fuzhou University.
+- **Master Students** 
   + Xinru Xu (2022 Fall - present): B.E. at ShanghaiTech University. 
   + Tianyu Cui (2022 Fall - present): B.S. at the University of Science and Technology of China. 
   + Jiangnan Tang (2022 Fall - present): B.E. at Beijing University of Posts and Telecommunications.
   + Lingxiao Yang (2023 Fall - present): B.E. at Northeastern University.
   + Haoyu Yan (2023 Fall - present): B.E. at Wuhan University of Technology.
   + Zichen Jin (2023 Fall - present): B.E. at Northeastern University. 
-- **Visiting Students**
-  + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.  
+  + Siqi Yan (2024 Fall - present): B.E. at ShanghaiTech University. 
+  + Ke Hu (2024 Fall - present): B.E. at Harbin Engineering University.
+  + Qun Li (2024 Fall - present): B.E. at Harbin Engineering University.
+  + Wentao Jiang (2024 Fall - present): B.E. at China University of Mining and Technology. 
+  + Yahao Fan (2024 Fall - present): B.E. at Zhengzhou University.
+  + Zhenhao Zhang (2024 Fall - present): B.E. at China University of Petroleum.
+  + Kaizhen Zhu (2024 Fall - present): B.E. at Hangzhou Dianzi University. 
+- **Alumni** 
+  + Haixiang Sun (2021 Fall - 2024 Fall): M.S. at ShanghaiTech University. Pursuing PhD at Pudu University. 
+  + Pengchao Tian (2021 Fall - 2024 Fall): M.S. at ShanghaiTech University. Working at Bilibili. 
+  + Hongxia Li (2021 Fall - 2024 Fall): M.S. at ShanghaiTech University. Working at Trip.com Group. 
+  + Wanxing Chang (2021 Fall - 2024 Fall, jointly with Jingya Wang): M.S. at ShanghaiTech University. Working at Alibaba DAMO Academy. 
+  + Zhongyi Cai (2021 Fall - 2024 Fall, jointly with Jingya Wang): M.S. at ShanghaiTech University. Pursuing PhD at Michigan State University. 
+  + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
+- **Visiting Students** 
 
