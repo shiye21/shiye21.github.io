@@ -402,7 +402,7 @@ Chunlin Yu, **Ye Shi**, Zimo Liu, Shenghua Gao, Jingya Wang\*
 
 **Unified Optimal Transport Framework for Universal Domain Adaptation, NeurIPS 2022 (Spotlight)**
 
-Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
+Wanxing Chang, **Ye Shi\***, Hoang Duong Tuan, Jingya Wang\*
 
 [[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/bda6843dbbca0b09b8769122e0928fad-Paper-Conference.pdf) [[**project**]](https://changwxx.github.io/UniOT-webpage/) [[**code**]]( https://github.com/changwxx/UniOT-for-UniDA) [[**video**]](https://www.youtube.com/watch?v=RwogtOEUPQQ) [[**VALSE**]](https://www.bilibili.com/video/BV1NM411L7BB/?spm_id_from=333.337.search-card.all.click&vd_source=8275a2758ee7d2cac0897efeb47abf25%2F)
 
