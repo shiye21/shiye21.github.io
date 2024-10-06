@@ -38,40 +38,134 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 - **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
+
+
+
 # 🔥 News 
-<!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
-- *2024.10*: I will give a talk at RLChina 2024: Agent motion generation and decision via controllable diffusion model. 
-- *2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 
-- *2024.5*: Two Papers accepted by **ICML 2024**.  Congratulations to Lingxiao Yang and Tianyu Cui. 
-- *2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications". 
-- *2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li! (**This paper was submitted when Qi Li was still an undergraduate student**.) 
-- *2024.2*: Three Papers accepted by **CVPR 2024**. 
-- *2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by **ICLR 2024**. 
-- *2023.12*: Two Papers accepted by **AAAI 2024**. 
-- *2023.11*: I gave a talk at RLChina 2023: "Towards Responsible Decision and Control via Implicit Networks". 
-- *2023.09*: Five Papers accepted by **NeurIPS 2023**. 
-- *2023.10*: Our students Shutong Ding, Tianyu Cui, Wanxing Chang and Chunlin Yu received the **NeurIPS 2023 Scholar Award**. Big Congratulations!  
-- *2023.09*: "Reduced Policy Optimization for Continuous Control with Hard Constraints" has been accepted by **NeurIPS 2023**. Congratulations to Shutong Ding!
-- *2023.09*: "Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation" has been accepted by **NeurIPS 2023**. Congratulations to Shutong Ding and Tianyu Cui!
-- *2023.09*: "CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels" has been accepted by **NeurIPS 2023**. Congratulation to Wanxing Chang!
-- *2023.09*: "Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning" has been accepted by **NeurIPS 2023**. Congratulations to Zhongyi Cai!
-- *2023.09*: "Contextually Affinitive Neighborhood Refinery for Deep Clustering" has been accepted by **NeurIPS 2023**. Congratulations to Chunlin Yu!
-- *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by **IEEE Transactions on Neural Networks and Learning Systems**, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! 
-- *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by **CVPR 2023** (CCF A). Congratulations to Juze Zhang!
-- *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by **IEEE Transactions on Cybernetics**, 2023. (Impact factor 19.118) Congratulations to Leijie Zhang!
-- *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by **ICLR 2023** (Core A). Congratulations to Haixiang Sun!
-- *2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by **AAAI 2023** (CCF A) as an Oral. Congratulations to Juze Zhang!
-- *2022.11*: "Beyond Rehearsal: Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation" has been accepted by **AAAI 2023** (CCF A) as an Oral. Congratulations to Chunlin Yu!
-- *2022.10*: "Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy" has been accepted by **ICCAIS 2022** as an oral. The first author is our undergraduate student Qi Li. Congratulations!
-- *2022.09*: "Unified Optimal Transport Framework for Universal Domain Adaptation" has been accepted by **NeurIPS 2022** (CCF A) as a Spotlight. Congratulation to Wanxing Chang!
-- *2022.09*: "Federated Fuzzy Neural Networks with Evolutionary Rule Learning" has been accepted by **IEEE Transactions on Fuzzy Systems**. (Impact factor 12.029) Congratulations to Leijie Zhang!
-- *2022.07*: "Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation" has been accepted by **ACM Multimedia** 2022 (CCF A). Congratulations to Juze Zhang!
-- *2021.12*: One paper (Corresponding author) received the Best Student Paper Award at the Australia Artificial Intelligence Institute.
-- *2021.08*: One paper has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
-- *2021.07*: One paper (First author) has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
-- *2021.05*: One paper (First author) has been published in Applied Energy. (Impact factor 9.746)
-- *2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)
-- *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.
+<div id="news-section">
+  <ul>
+    <li>*2024.10*: I will give a talk at RLChina 2024: Agent motion generation and decision via controllable diffusion model.</li>
+    <li>*2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun.</li>
+    <li>*2024.5*: Two Papers accepted by **ICML 2024**. Congratulations to Lingxiao Yang and Tianyu Cui.</li>
+    <li>*2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications".</li>
+    <li>*2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li!</li>
+    <div id="more-news" style="display: none;">
+      <!-- 从第6个 news 开始放在这里 -->
+      <li>*2024.2*: Three Papers accepted by **CVPR 2024**.</li>
+      <li>*2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by **ICLR 2024**.</li>
+      <li>*2023.12*: Two Papers accepted by **AAAI 2024**.</li>
+      <li>*2023.11*: I gave a talk at RLChina 2023: "Towards Responsible Decision and Control via Implicit Networks".</li>
+      <li>*2023.09*: Five Papers accepted by **NeurIPS 2023**.</li>
+      <li>*2023.10*: Our students Shutong Ding, Tianyu Cui, Wanxing Chang and Chunlin Yu received the **NeurIPS 2023 Scholar Award**. Big Congratulations!</li>  
+      <li>*2023.09*: "Reduced Policy Optimization for Continuous Control with Hard Constraints" has been accepted by **NeurIPS 2023**. Congratulations to Shutong Ding!</li>
+      <li>*2023.09*: "Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation" has been accepted by **NeurIPS 2023**. Congratulations to Shutong Ding and Tianyu Cui!</li>
+      <li>*2023.09*: "CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels" has been accepted by **NeurIPS 2023**. Congratulation to Wanxing Chang!</li>
+      <li>*2023.09*: "Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning" has been accepted by **NeurIPS 2023**. Congratulations to Zhongyi Cai!</li>
+      <li>*2023.09*: "Contextually Affinitive Neighborhood Refinery for Deep Clustering" has been accepted by **NeurIPS 2023**. Congratulations to Chunlin Yu!</li>
+      <li>*2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by **IEEE Transactions on Neural Networks and Learning Systems**, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! </li>
+      <li>*2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by **CVPR 2023** (CCF A). Congratulations to Juze Zhang!</li>
+      <li>*2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by **IEEE Transactions on Cybernetics**, 2023. (Impact factor 19.118) Congratulations to Leijie Zhang!</li>
+      <li>*2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by **ICLR 2023** (Core A). Congratulations to Haixiang Sun!</li>
+      <li>*2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by **AAAI 2023** (CCF A) as an Oral. Congratulations to Juze Zhang!</li>
+      <li>*2022.11*: "Beyond Rehearsal: Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation" has been accepted by **AAAI 2023** (CCF A) as an Oral. Congratulations to Chunlin Yu!</li>
+      <li>*2022.10*: "Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy" has been accepted by **ICCAIS 2022** as an oral. The first author is our undergraduate student Qi Li. Congratulations!</li>
+      <li>*2022.09*: "Unified Optimal Transport Framework for Universal Domain Adaptation" has been accepted by **NeurIPS 2022** (CCF A) as a Spotlight. Congratulation to Wanxing Chang!</li>
+      <li>*2022.09*: "Federated Fuzzy Neural Networks with Evolutionary Rule Learning" has been accepted by **IEEE Transactions on Fuzzy Systems**. (Impact factor 12.029) Congratulations to Leijie Zhang!</li>
+      <li>*2022.07*: "Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation" has been accepted by **ACM Multimedia** 2022 (CCF A). Congratulations to Juze Zhang!</li>
+      <li>*2021.12*: One paper (Corresponding author) received the Best Student Paper Award at the Australia Artificial Intelligence Institute.</li>
+      <li>*2021.08*: One paper has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)</li>
+      <li>*2021.07*: One paper (First author) has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)</li>
+      <li>*2021.05*: One paper (First author) has been published in Applied Energy. (Impact factor 9.746)</li>
+      <li>*2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)</li>
+      <li>*2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.</li>
+      <!-- 继续添加更多 news... -->
+    </div>
+  </ul>
+  <button id="toggle-news" onclick="toggleNews()">Show More</button>
+</div>
+
+<script>
+  function toggleNews() {
+    var moreNews = document.getElementById("more-news");
+    var button = document.getElementById("toggle-news");
+    if (moreNews.style.display === "none") {
+      moreNews.style.display = "block";
+      button.textContent = "Show Less";
+    } else {
+      moreNews.style.display = "none";
+      button.textContent = "Show More";
+    }
+  }
+</script>
+
+
+
+
+[//]: # (<!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. &#40;Impact factor 14.225&#41; Congratulations to Hongxia Li and Zhongyi Cai! --> )
+
+[//]: # (- *2024.10*: I will give a talk at RLChina 2024: Agent motion generation and decision via controllable diffusion model. )
+
+[//]: # (- *2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. )
+
+[//]: # (- *2024.5*: Two Papers accepted by **ICML 2024**.  Congratulations to Lingxiao Yang and Tianyu Cui. )
+
+[//]: # (- *2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications". )
+
+[//]: # (- *2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li! &#40;**This paper was submitted when Qi Li was still an undergraduate student**.&#41; )
+
+[//]: # (- *2024.2*: Three Papers accepted by **CVPR 2024**. )
+
+[//]: # (- *2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by **ICLR 2024**. )
+
+[//]: # (- *2023.12*: Two Papers accepted by **AAAI 2024**. )
+
+[//]: # (- *2023.11*: I gave a talk at RLChina 2023: "Towards Responsible Decision and Control via Implicit Networks". )
+
+[//]: # (- *2023.09*: Five Papers accepted by **NeurIPS 2023**. )
+
+[//]: # (- *2023.10*: Our students Shutong Ding, Tianyu Cui, Wanxing Chang and Chunlin Yu received the **NeurIPS 2023 Scholar Award**. Big Congratulations!  )
+
+[//]: # (- *2023.09*: "Reduced Policy Optimization for Continuous Control with Hard Constraints" has been accepted by **NeurIPS 2023**. Congratulations to Shutong Ding!)
+
+[//]: # (- *2023.09*: "Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation" has been accepted by **NeurIPS 2023**. Congratulations to Shutong Ding and Tianyu Cui!)
+
+[//]: # (- *2023.09*: "CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels" has been accepted by **NeurIPS 2023**. Congratulation to Wanxing Chang!)
+
+[//]: # (- *2023.09*: "Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning" has been accepted by **NeurIPS 2023**. Congratulations to Zhongyi Cai!)
+
+[//]: # (- *2023.09*: "Contextually Affinitive Neighborhood Refinery for Deep Clustering" has been accepted by **NeurIPS 2023**. Congratulations to Chunlin Yu!)
+
+[//]: # (- *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by **IEEE Transactions on Neural Networks and Learning Systems**, 2023. &#40;Impact factor 14.225&#41; Congratulations to Hongxia Li and Zhongyi Cai! )
+
+[//]: # (- *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by **CVPR 2023** &#40;CCF A&#41;. Congratulations to Juze Zhang!)
+
+[//]: # (- *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by **IEEE Transactions on Cybernetics**, 2023. &#40;Impact factor 19.118&#41; Congratulations to Leijie Zhang!)
+
+[//]: # (- *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by **ICLR 2023** &#40;Core A&#41;. Congratulations to Haixiang Sun!)
+
+[//]: # (- *2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by **AAAI 2023** &#40;CCF A&#41; as an Oral. Congratulations to Juze Zhang!)
+
+[//]: # (- *2022.11*: "Beyond Rehearsal: Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation" has been accepted by **AAAI 2023** &#40;CCF A&#41; as an Oral. Congratulations to Chunlin Yu!)
+
+[//]: # (- *2022.10*: "Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy" has been accepted by **ICCAIS 2022** as an oral. The first author is our undergraduate student Qi Li. Congratulations!)
+
+[//]: # (- *2022.09*: "Unified Optimal Transport Framework for Universal Domain Adaptation" has been accepted by **NeurIPS 2022** &#40;CCF A&#41; as a Spotlight. Congratulation to Wanxing Chang!)
+
+[//]: # (- *2022.09*: "Federated Fuzzy Neural Networks with Evolutionary Rule Learning" has been accepted by **IEEE Transactions on Fuzzy Systems**. &#40;Impact factor 12.029&#41; Congratulations to Leijie Zhang!)
+
+[//]: # (- *2022.07*: "Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation" has been accepted by **ACM Multimedia** 2022 &#40;CCF A&#41;. Congratulations to Juze Zhang!)
+
+[//]: # (- *2021.12*: One paper &#40;Corresponding author&#41; received the Best Student Paper Award at the Australia Artificial Intelligence Institute.)
+
+[//]: # (- *2021.08*: One paper has been accepted by IEEE Transactions on Fuzzy Systems. &#40;Impact factor 12.029&#41;)
+
+[//]: # (- *2021.07*: One paper &#40;First author&#41; has been accepted by IEEE Transactions on Fuzzy Systems. &#40;Impact factor 12.029&#41;)
+
+[//]: # (- *2021.05*: One paper &#40;First author&#41; has been published in Applied Energy. &#40;Impact factor 9.746&#41;)
+
+[//]: # (- *2021.04*: One paper has been published in IEEE Transactions on Multimedia. &#40;Impact Factor 6.051&#41;)
+
+[//]: # (- *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.)
 
 # 📝 Selected Publications 
 
