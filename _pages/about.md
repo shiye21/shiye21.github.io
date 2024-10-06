@@ -98,7 +98,18 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, NeurIPS 2024**
+
+Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2405.16173)
+[[**code**]](https://github.com/wadx2019/qvpo-webpage)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/shx_deqnc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -119,19 +130,6 @@ Bikang Pan, Wei Huang, **Ye Shi\***
 
 [[**paper**]](https://arxiv.org/abs/2409.19610)
 [[**code**]](https://github.com/PanBikang/PromptFolio)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/QVPO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, NeurIPS 2024**
-
-Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, **Ye Shi\***
-
-[[**paper**]](https://arxiv.org/abs/2405.16173)
-[[**code**]](https://github.com/wadx2019/qvpo-webpage)
 
 </div>
 </div>
@@ -180,7 +178,7 @@ Hongxia Li, Wei Huang, Jingya Wang, **Ye Shi\***
 
 **$\text{S}^2$Fusion: A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals, CVPR 2024**
 
-Jiangnan Tang, Jingya Wang, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
+Jiangnan Tang, Jingya Wang*, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
 
 [[**paper**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_A_Unified_Diffusion_Framework_for_Scene-aware_Human_Motion_Estimation_from_CVPR_2024_paper.pdf)
 [[**code**]](https://github.com/jn-tang/S2Fusion)
@@ -207,7 +205,7 @@ Juze Zhang, Jingyan Zhang, Zining Song, Zhanhe Shi, Chengfeng Zhao, **Ye Shi**, 
 
 **Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory, ICLR 2024**
 
-Wei Huang, **Ye Shi**, Zhongyi Cai, Taiji Suzuki
+Wei Huang, **Ye Shi\***, Zhongyi Cai, Taiji Suzuki
 
 [[**paper**]](https://openreview.net/pdf?id=EcetCr4trp)
 
