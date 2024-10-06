@@ -178,7 +178,7 @@ Hongxia Li, Wei Huang, Jingya Wang, **Ye Shi\***
 
 **$\text{S}^2$Fusion: A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals, CVPR 2024**
 
-Jiangnan Tang, Jingya Wang*, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
+Jiangnan Tang, Jingya Wang\*, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
 
 [[**paper**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_A_Unified_Diffusion_Framework_for_Scene-aware_Human_Motion_Estimation_from_CVPR_2024_paper.pdf)
 [[**code**]](https://github.com/jn-tang/S2Fusion)
@@ -191,7 +191,7 @@ Jiangnan Tang, Jingya Wang*, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
 
 **HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment, CVPR 2024**
 
-Juze Zhang, Jingyan Zhang, Zining Song, Zhanhe Shi, Chengfeng Zhao, **Ye Shi**, Jingyi Yu, Lan Xu, Jingya Wang*
+Juze Zhang, Jingyan Zhang, Zining Song, Zhanhe Shi, Chengfeng Zhao, **Ye Shi**, Jingyi Yu, Lan Xu, Jingya Wang\*
 
 [[**paper**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_HOI-M3_Capture_Multiple_Humans_and_Objects_Interaction_within_Contextual_Environment_CVPR_2024_paper.pdf)
 [[**project**]](https://juzezhang.github.io/HOIM3_ProjectPage/)
@@ -212,6 +212,7 @@ Wei Huang, **Ye Shi\***, Zhongyi Cai, Taiji Suzuki
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24_pot.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -230,13 +231,14 @@ Bin Li, **Ye Shi**, Qian Yu, Jingya Wang
 
 **HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations, AAAI 2024**
 
-Yilan Dong, Chunlin Yu, Ruiyang Ha, **Ye Shi**, Yuexin Ma, Lan Xu, Yanwei Fu, Jingya Wang
+Yilan Dong, Chunlin Yu, Ruiyang Ha, **Ye Shi**, Yuexin Ma, Lan Xu, Yanwei Fu, Jingya Wang\*
 
 [[**paper**]](https://ojs.aaai.org/index.php/AAAI/article/view/27926/27873)
 [[**code**]](https://github.com/HCVLab/HybridGait)
 
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Ding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -356,6 +358,7 @@ Juze Zhang, Haimin Luo, Hongdi Yang, Xinru Xu, Qianyang Wu, **Ye Shi**, Jingyi Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/publications/RFNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<!--
 **Robust Fuzzy Neural Network with an Adaptive Inference Engine, IEEE Transactions on Cybernetics, 2023**
 
 Leijie Zhang, **Ye Shi\***, Yu-Cheng Chang and Chin-Teng Lin\*
@@ -363,6 +366,7 @@ Leijie Zhang, **Ye Shi\***, Yu-Cheng Chang and Chin-Teng Lin\*
 [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10045012) [[**code**]](https://github.com/leijiezhang/RFNN)
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publications/Alt-diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -431,6 +435,9 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 </div>
 </div>
 
+
+<!--
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Fuzzy Systems 2022</div><img src='images/publications/DSFR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -441,6 +448,9 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512491) [[**code**]](https://github.com/leijiezhang/DSFR)
 </div>
 </div>
+-->
+
+**Distributed Semi-supervised Fuzzy Regression with Interpolation Consistency Regularization**,  **Ye Shi\#**, Leijie Zhang\#, Zehong Cao, M. Tanveer and Chin-Teng Lin\*, IEEE Transactions on Fuzzy Systems, 2022. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512491) [[**code**]](https://github.com/leijiezhang/DSFR)
 
 - **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan, ICCAIS 2022 (Oral). [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
   
