@@ -98,10 +98,32 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/QVPO.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/shx_deqnc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, arXiv:2405.16173**
+**Understanding Representation of Deep Equilibrium Models from Neural Collapse Perspective, NeurIPS 2024**
+
+Haixiang Sun, **Ye Shi\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/PromptFolio.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method, NeurIPS 2024**
+
+Bikang Pan, Wei Huang, **Ye Shi\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, NeurIPS 2024**
 
 Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
