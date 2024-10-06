@@ -450,7 +450,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 </div>
 -->
 
-**Distributed Semi-supervised Fuzzy Regression with Interpolation Consistency Regularization**,  **Ye Shi\#**, Leijie Zhang\#, Zehong Cao, M. Tanveer and Chin-Teng Lin\*, IEEE Transactions on Fuzzy Systems, 2022. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512491) [[**code**]](https://github.com/leijiezhang/DSFR)
+- **Distributed Semi-supervised Fuzzy Regression with Interpolation Consistency Regularization**,  **Ye Shi\#**, Leijie Zhang\#, Zehong Cao, M. Tanveer and Chin-Teng Lin\*, IEEE Transactions on Fuzzy Systems, 2022. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512491) [[**code**]](https://github.com/leijiezhang/DSFR)
 
 - **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan, ICCAIS 2022 (Oral). [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
   
