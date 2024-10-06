@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS), Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia from 2017 to 2019, and a Postdoctoral Fellow at the University of Technology Sydney from 2019 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021.
+Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS), Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia from 2017 to 2019, and a Postdoctoral Fellow at the University of Technology Sydney from 2019 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021. 
 
 # ✡️ Research Interests 
 
@@ -25,9 +25,9 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 - **Deep Learning Basics:** implicit differentiation, optimization layer, deep equilibrium models, optimal transport; 
 
-- **AI \& Optimization Applications**: humanoid robot, 3D vision, smart grid, learn to optimize, etc.
+- **AI \& Optimization Applications**: humanoid robot, 3D vision, smart grid, learn to optimize, etc. 
 
-<!-- **Quantum Computing**: quantum annealing, quantum machine learning. -->
+<!-- **Quantum Computing**: quantum annealing, quantum machine learning. --> 
 
 <!-- Our recent research interests mainly focus on Diffusion, Embodied AI, 3D Vision, Reinforcement Learning, Federated Learning, Smart Energy, and on the fundamental optimizations underlying them. We are interested in developing AI algorithms that are more reliable, more robust, more privacy-preserving and more memory-efficient AI models. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learning to optimize, AI for Carbon Neutrality, etc. -->
 
@@ -549,8 +549,8 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 # 🧑‍🎓 Group
 - **Ph.D. Students** 
   + Bikang Pan: B.E. at ShanghaiTech University.
-  + Jiebao Zhang: M.S. at Yunnan University.
   + Shutong Ding: B.E. at Fuzhou University.
+  + Jiebao Zhang (jointly with Prof Haoyu Wang): M.S. at Yunnan University. 
 - **Master Students** 
   + Xinru Xu: B.E. at ShanghaiTech University. 
   + Tianyu Cui: B.S. at the University of Science and Technology of China. 
@@ -564,17 +564,18 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Wentao Jiang: B.E. at China University of Mining and Technology. 
   + Yahao Fan: B.E. at Zhengzhou University.
   + Zhenhao Zhang: B.E. at China University of Petroleum.
-  + Kaizhen Zhu: B.E. at Hangzhou Dianzi University. 
-- **Alumni** 
-  + Haixiang Sun (2021 Fall - 2024 Fall): M.S. at ShanghaiTech University. Pursuing PhD at Pudu University. 
-  + Pengchao Tian (2021 Fall - 2024 Fall): M.S. at ShanghaiTech University. Working at Bilibili. 
-  + Hongxia Li (2021 Fall - 2024 Fall): M.S. at ShanghaiTech University. Working at Trip.com Group. 
-  + Wanxing Chang (2021 Fall - 2024 Fall, jointly with Jingya Wang): M.S. at ShanghaiTech University. Working at Alibaba DAMO Academy. 
-  + Zhongyi Cai (2021 Fall - 2024 Fall, jointly with Jingya Wang): M.S. at ShanghaiTech University. Pursuing PhD at Michigan State University. 
-  + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
+  + Kaizhen Zhu (jointly with Prof Jingya Wang): B.E. at Hangzhou Dianzi University. 
 - **Visiting Students**
   + Jun Xue: B.S. at Tongji University.
   + Fan Liu: M.S. at The University of Glasgow. 
+
+- **Alumni** 
+  + Haixiang Sun: M.S. at ShanghaiTech University. Pursuing PhD at Pudu University. 
+  + Pengchao Tian: M.S. at ShanghaiTech University. Working at Bilibili. 
+  + Hongxia Li: M.S. at ShanghaiTech University. Working at Trip.com Group. 
+  + Wanxing Chang (jointly with Jingya Wang): M.S. at ShanghaiTech University. Working at Alibaba DAMO Academy. 
+  + Zhongyi Cai (jointly with Jingya Wang): M.S. at ShanghaiTech University. Pursuing PhD at Michigan State University. 
+  + Qi Li: B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.
   
 <!-- -
 - **Ph.D. Students** 
