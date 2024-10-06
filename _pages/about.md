@@ -47,13 +47,13 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
     <li>*2024.5*: Two Papers accepted by **ICML 2024**. Congratulations to Lingxiao Yang and Tianyu Cui.</li>
     <li>*2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications".</li>
     <li>*2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li!</li>
-    <div id="more-news" style="display: none;">
-      <!-- 从第6个 news 开始放在这里 -->
       <li>*2024.2*: Three Papers accepted by **CVPR 2024**.</li>
       <li>*2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by **ICLR 2024**.</li>
       <li>*2023.12*: Two Papers accepted by **AAAI 2024**.</li>
       <li>*2023.11*: I gave a talk at RLChina 2023: "Towards Responsible Decision and Control via Implicit Networks".</li>
       <li>*2023.09*: Five Papers accepted by **NeurIPS 2023**.</li>
+<div id="more-news" style="display: none;">
+<!-- 从第X个 news 开始放在这里 -->
       <li>*2023.10*: Our students Shutong Ding, Tianyu Cui, Wanxing Chang and Chunlin Yu received the **NeurIPS 2023 Scholar Award**. Big Congratulations!</li>  
       <li>*2023.09*: "Reduced Policy Optimization for Continuous Control with Hard Constraints" has been accepted by **NeurIPS 2023**. Congratulations to Shutong Ding!</li>
       <li>*2023.09*: "Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation" has been accepted by **NeurIPS 2023**. Congratulations to Shutong Ding and Tianyu Cui!</li>
@@ -519,10 +519,11 @@ School of Information Science and Technology, ShanghaiTech University.
 - **Session Chair**
 The 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2019).
 - **Program committee**
-  + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024, ICML 2024, NeurIPS 2024, AAAI 2025. 
+  + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024, ICML 2024, NeurIPS 2024, AAAI 2025, ICLR 2025, etc. 
 
 - **Reviewer**
-  + IEEE Transactions on Neural Networks and Learning Systems
+  + TNNLS, TIP, JSAC, TSG, TFS, TSE, TII, TIE, TIV, TIM, TMLR, IJRNC, etc.
+<!-- -
   + IEEE Transactions on Image Processing
   + IEEE Journal on Selected Areas in Communications
   + IEEE Transactions on Fuzzy System
@@ -539,12 +540,43 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + International Journal of Robust and Nonlinear Control
   + Information Sciences
   + Applied Soft Computing
+-->
 
 # 🧑‍🏫 Teaching
-- Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn.
-- Course SI152 - **Numerical Optimization**, ShanghaiTech University, 2022 Spring, 2023 Spring.
+- Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn, 2024 Autumn. 
+- Course SI152 - **Numerical Optimization**, ShanghaiTech University, 2022 Spring, 2023 Spring, 2024 Spring. 
 
 # 🧑‍🎓 Group
+- **Ph.D. Students** 
+  + Bikang Pan: B.E. at ShanghaiTech University.
+  + Jiebao Zhang: M.S. at Yunnan University.
+  + Shutong Ding: B.E. at Fuzhou University.
+- **Master Students** 
+  + Xinru Xu: B.E. at ShanghaiTech University. 
+  + Tianyu Cui: B.S. at the University of Science and Technology of China. 
+  + Jiangnan Tang: B.E. at Beijing University of Posts and Telecommunications.
+  + Lingxiao Yang: B.E. at Northeastern University.
+  + Haoyu Yan: B.E. at Wuhan University of Technology.
+  + Zichen Jin: B.E. at Northeastern University. 
+  + Siqi Yan: B.E. at ShanghaiTech University. 
+  + Ke Hu: B.E. at Harbin Engineering University.
+  + Qun Li: B.E. at Harbin Engineering University.
+  + Wentao Jiang: B.E. at China University of Mining and Technology. 
+  + Yahao Fan: B.E. at Zhengzhou University.
+  + Zhenhao Zhang: B.E. at China University of Petroleum.
+  + Kaizhen Zhu: B.E. at Hangzhou Dianzi University. 
+- **Alumni** 
+  + Haixiang Sun (2021 Fall - 2024 Fall): M.S. at ShanghaiTech University. Pursuing PhD at Pudu University. 
+  + Pengchao Tian (2021 Fall - 2024 Fall): M.S. at ShanghaiTech University. Working at Bilibili. 
+  + Hongxia Li (2021 Fall - 2024 Fall): M.S. at ShanghaiTech University. Working at Trip.com Group. 
+  + Wanxing Chang (2021 Fall - 2024 Fall, jointly with Jingya Wang): M.S. at ShanghaiTech University. Working at Alibaba DAMO Academy. 
+  + Zhongyi Cai (2021 Fall - 2024 Fall, jointly with Jingya Wang): M.S. at ShanghaiTech University. Pursuing PhD at Michigan State University. 
+  + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
+- **Visiting Students**
+  + Jun Xue: B.S. at Tongji University.
+  + Fan Liu: M.S. at The University of Glasgow. 
+  
+<!-- -
 - **Ph.D. Students** 
   + Bikang Pan (2023 Fall - present): B.E. at ShanghaiTech University.
   + Jiebao Zhang (2023 Fall - present): M.S. at Yunnan University.
@@ -571,4 +603,4 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Zhongyi Cai (2021 Fall - 2024 Fall, jointly with Jingya Wang): M.S. at ShanghaiTech University. Pursuing PhD at Michigan State University. 
   + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
 - **Visiting Students** 
-
+-->
