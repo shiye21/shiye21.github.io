@@ -355,10 +355,10 @@ Juze Zhang, Haimin Luo, Hongdi Yang, Xinru Xu, Qianyang Wu, **Ye Shi**, Jingyi Y
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/publications/RFNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!--
 **Robust Fuzzy Neural Network with an Adaptive Inference Engine, IEEE Transactions on Cybernetics, 2023**
 
 Leijie Zhang, **Ye Shi\***, Yu-Cheng Chang and Chin-Teng Lin\*
