@@ -79,7 +79,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
       <!-- 继续添加更多 news... -->
     </div>
   </ul>
-  <button id="toggle-news" onclick="toggleNews()">Show More</button>
+  <button id="toggle-news" onclick="toggleNews()" style="margin-left: 20px;">Show More</button>
 </div>
 
 <script>
