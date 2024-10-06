@@ -117,6 +117,9 @@ Haixiang Sun, **Ye Shi\***
 
 Bikang Pan, Wei Huang, **Ye Shi\***
 
+[[**paper**]](https://arxiv.org/abs/2409.19610)
+[[**code**]](https://github.com/PanBikang/PromptFolio)
+
 </div>
 </div>
 
@@ -126,6 +129,9 @@ Bikang Pan, Wei Huang, **Ye Shi\***
 **Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, NeurIPS 2024**
 
 Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2405.16173)
+[[**code**]](https://github.com/wadx2019/qvpo-webpage)
 
 </div>
 </div>
@@ -137,6 +143,9 @@ Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wan
 
 Lingxiao Yang, Shutong Ding, Yifan Cai, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
+[[**paper**]](https://openreview.net/pdf?id=VtqyurB4Af)
+[[**code**]](https://github.com/LingxiaoYang2023/DSG2024)
+
 </div>
 </div>
 
@@ -146,6 +155,9 @@ Lingxiao Yang, Shutong Ding, Yifan Cai, Jingyi Yu, Jingya Wang, **Ye Shi\***
 **Harmonizing Generalization and Personalization in Federated Prompt Learning, ICML 2024**
 
 Tianyu Cui, Hongxia Li, Jingya Wang, **Ye Shi\***
+
+[[**paper**]](https://openreview.net/pdf?id=YYwERRXsJW)
+[[**code**]](https://github.com/TianyuCuiOvO/FedPGP)
 
 </div>
 </div>
@@ -157,6 +169,9 @@ Tianyu Cui, Hongxia Li, Jingya Wang, **Ye Shi\***
 
 Hongxia Li, Wei Huang, Jingya Wang, **Ye Shi\***
 
+[[**paper**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Global_and_Local_Prompts_Cooperation_via_Optimal_Transport_for_Federated_CVPR_2024_paper.pdf)
+[[**code**]](https://github.com/HongxiaLee/FedOTP)
+
 </div>
 </div>
 
@@ -166,6 +181,9 @@ Hongxia Li, Wei Huang, Jingya Wang, **Ye Shi\***
 **$\text{S}^2$Fusion: A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals, CVPR 2024**
 
 Jiangnan Tang, Jingya Wang, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
+
+[[**paper**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_A_Unified_Diffusion_Framework_for_Scene-aware_Human_Motion_Estimation_from_CVPR_2024_paper.pdf)
+[[**code**]](https://github.com/jn-tang/S2Fusion)
 
 </div>
 </div>
@@ -177,6 +195,10 @@ Jiangnan Tang, Jingya Wang, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
 
 Juze Zhang, Jingyan Zhang, Zining Song, Zhanhe Shi, Chengfeng Zhao, **Ye Shi**, Jingyi Yu, Lan Xu, Jingya Wang*
 
+[[**paper**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_HOI-M3_Capture_Multiple_Humans_and_Objects_Interaction_within_Contextual_Environment_CVPR_2024_paper.pdf)
+[[**project**]](https://juzezhang.github.io/HOIM3_ProjectPage/)
+[[**code**]](https://github.com/Juzezhang/NeuralDome_Toolbox)
+
 </div>
 </div>
 
@@ -186,6 +208,8 @@ Juze Zhang, Jingyan Zhang, Zining Song, Zhanhe Shi, Chengfeng Zhao, **Ye Shi**, 
 **Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory, ICLR 2024**
 
 Wei Huang, **Ye Shi**, Zhongyi Cai, Taiji Suzuki
+
+[[**paper**]](https://openreview.net/pdf?id=EcetCr4trp)
 
 </div>
 </div>
@@ -197,6 +221,9 @@ Wei Huang, **Ye Shi**, Zhongyi Cai, Taiji Suzuki
 
 Bin Li, **Ye Shi**, Qian Yu, Jingya Wang
 
+[[**paper**]](https://ojs.aaai.org/index.php/AAAI/article/download/28083/28172)
+[[**code**]](https://github.com/HCVLAB/ProtoOT)
+
 </div>
 </div>
 
@@ -206,6 +233,10 @@ Bin Li, **Ye Shi**, Qian Yu, Jingya Wang
 **HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations, AAAI 2024**
 
 Yilan Dong, Chunlin Yu, Ruiyang Ha, **Ye Shi**, Yuexin Ma, Lan Xu, Yanwei Fu, Jingya Wang
+
+[[**paper**]](https://ojs.aaai.org/index.php/AAAI/article/view/27926/27873)
+[[**code**]](https://github.com/HCVLab/HybridGait)
+
 </div>
 </div>
 
@@ -215,6 +246,9 @@ Yilan Dong, Chunlin Yu, Ruiyang Ha, **Ye Shi**, Yuexin Ma, Lan Xu, Yanwei Fu, Ji
 **Reduced Policy Optimization for Continuous Control with Hard Constraints, NeurIPS 2023**
 
 Shutong Ding, Jingya Wang, Yali Du, **Ye Shi\***
+
+[[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7984e22a06eb5f0e35d745cb38345983-Abstract-Conference.html)
+[[**code**]](https://github.com/wadx2019/rpo)
 
 </div>
 </div>
@@ -226,6 +260,9 @@ Shutong Ding, Jingya Wang, Yali Du, **Ye Shi\***
 
 Shutong Ding\#, Tianyu Cui\#, Jingya Wang, **Ye Shi\***
 
+[[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/592da1445a51e54a3987958b5831948f-Abstract-Conference.html)
+[[**code**]](https://github.com/wadx2019/homoode-webpage)
+
 </div>
 </div>
 
@@ -235,6 +272,11 @@ Shutong Ding\#, Tianyu Cui\#, Jingya Wang, **Ye Shi\***
 **CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels, NeurIPS 2023**
 
 Wanxing Chang, **Ye Shi**, Jingya Wang
+
+[[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b0da24d136f46bfaee78e8da907127e-Abstract-Conference.html)
+[[**project**]](https://changwxx.github.io/CSOT-webpage/)
+[[**code**]](https://github.com/changwxx/CSOT-for-LNL)
+
 
 </div>
 </div>
@@ -246,6 +288,9 @@ Wanxing Chang, **Ye Shi**, Jingya Wang
 
 Zhongyi Cai, **Ye Shi\***, Wei Huang, Jingya Wang
 
+[[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/431d53d513461ff155d5bc8faa9a440c-Abstract-Conference.html)
+[[**code**]](https://github.com/zhyczy/Fed-CO2)
+
 </div>
 </div>
 
@@ -255,6 +300,9 @@ Zhongyi Cai, **Ye Shi\***, Wei Huang, Jingya Wang
 **Contextually Affinitive Neighborhood Refinery for Deep Clustering, NeurIPS 2023**
 
 Chunlin Yu, **Ye Shi**, Jingya Wang
+
+[[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/123cfe7d8b7702ac97aaf4468fc05fa5-Abstract-Conference.html)
+[[**code**]](https://github.com/cly234/DeepClustering-ConNR)
 
 </div>
 </div>
