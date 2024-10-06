@@ -110,7 +110,7 @@ Haixiang Sun, **Ye Shi\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/PromptFolio.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/PromptFolio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method, NeurIPS 2024**
