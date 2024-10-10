@@ -23,7 +23,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 - **Trustworthy AI:** controllable diffusion models, reliable reinforcement learning, heterogeneous federated learning;  
 
-- **Deep Learning Basics:** implicit differentiation, optimization layer, deep equilibrium models, optimal transport; 
+- **Deep Learning Basics:** optimal transport, implicit differentiation, optimization layer, deep equilibrium models; 
 
 - **AI \& Optimization Applications**: humanoid robot, 3D vision, smart grid, learn to optimize, etc. 
 
@@ -35,7 +35,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS
 
 # 🔊 Position Openings 
 - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
-- **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group;
+- **Undergraduates/Visting Students:** We warmly welcome students majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
 
@@ -583,7 +583,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Hongxia Li: M.S. at ShanghaiTech University. Working at Trip.com Group. 
   + Wanxing Chang (jointly with Jingya Wang): M.S. at ShanghaiTech University. Working at Alibaba DAMO Academy. 
   + Zhongyi Cai (jointly with Jingya Wang): M.S. at ShanghaiTech University. Pursuing PhD at Michigan State University. 
-  + Qi Li: B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.
+  + Qi Li: B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University. 
   
 <!-- -
 - **Ph.D. Students** 
