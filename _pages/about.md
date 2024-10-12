@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS), Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia from 2017 to 2019, and a Postdoctoral Fellow at the University of Technology Sydney from 2019 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021. 
+Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia and a Postdoctoral Fellow at the University of Technology Sydney from 2017 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021. He is the Director of YesAI Lab at ShanghaiTech University. 
 
 # ✡️ Research Interests 
 
-- **Trustworthy AI:** controllable diffusion models, reliable reinforcement learning, heterogeneous federated learning;  
+- **Trustworthy AI:** controllable, robust, and safe machine learning algorithms, particularly interested in diffusion models, reinforcement learning, and federated learning;  
 
 - **Deep Learning Basics:** optimal transport, implicit differentiation, optimization layer, deep equilibrium models; 
 
-- **AI \& Optimization Applications**: humanoid robot, 3D vision, smart grid, learn to optimize, etc. 
+- **AI \& Optimization Applications**: optimization and control, humanoid robot, computer vision, smart grid, etc. 
 
 <!-- **Quantum Computing**: quantum annealing, quantum machine learning. --> 
 
