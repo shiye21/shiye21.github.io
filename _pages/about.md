@@ -21,7 +21,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 
 # ✡️ Research Interests 
 
-- **Trustworthy AI:** controllable, robust, efficient, and safe machine learning algorithms, particularly interested in diffusion models, reinforcement learning, and federated learning;  
+- **Trustworthy AI:** controllable, robust, efficient, and safe AI methods, particularly interested in diffusion models, reinforcement learning, and federated learning;  
 
 - **Deep Learning Basics:** optimal transport, implicit differentiation, optimization layer, deep equilibrium models; 
 
@@ -34,7 +34,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔊 Position Openings 
-- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
+- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Trustworthy AI, Deep Learning Basics, Optimization and Control, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
 - **Undergraduates/Visting Students:** We warmly welcome students majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
@@ -43,15 +43,15 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 <div id="news-section">
   <ul>
     <li>*2024.10*: I will give a talk at RLChina 2024: Agent motion generation and decision via controllable diffusion model.</li>
-    <li>*2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun.</li>
-    <li>*2024.5*: Two Papers accepted by **ICML 2024**. Congratulations to Lingxiao Yang and Tianyu Cui.</li>
+    <li>*2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 3 Submissions with 3 Acceptances. </li>
+    <li>*2024.5*: Two Papers accepted by **ICML 2024**. Congratulations to Lingxiao Yang and Tianyu Cui. 3 Submissions with 2 Acceptances. </li>
     <li>*2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications".</li>
     <li>*2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li!</li>
       <li>*2024.2*: Three Papers accepted by **CVPR 2024**.</li>
-      <li>*2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by **ICLR 2024**.</li>
-      <li>*2023.12*: Two Papers accepted by **AAAI 2024**.</li>
+      <li>*2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by **ICLR 2024**. 1 Submission with 1 Acceptance. </li>
+      <li>*2023.12*: Two Papers accepted by **AAAI 2024**. 2 Submissions with 2 Acceptances.</li>
       <li>*2023.11*: I gave a talk at RLChina 2023: "Towards Responsible Decision and Control via Implicit Networks".</li>
-      <li>*2023.09*: Five Papers accepted by **NeurIPS 2023**.</li>
+      <li>*2023.09*: Five Papers accepted by **NeurIPS 2023**. 6 Submissions with 5 Acceptances.</li>
 <div id="more-news" style="display: none;">
 <!-- 从第X个 news 开始放在这里 -->
       <li>*2023.10*: Our students Shutong Ding, Tianyu Cui, Wanxing Chang and Chunlin Yu received the **NeurIPS 2023 Scholar Award**. Big Congratulations!</li>  
