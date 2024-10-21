@@ -42,12 +42,12 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 # 🔥 News 
 <div id="news-section">
   <ul>
-    <li>*2024.10*: I will give a talk at RLChina 2024: Agent motion generation and decision via controllable diffusion model.</li>
-    <li>*2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 3 Submissions with 3 Acceptances. </li>
-    <li>*2024.5*: Two Papers accepted by **ICML 2024**. Congratulations to Lingxiao Yang and Tianyu Cui. 3 Submissions with 2 Acceptances. </li>
-    <li>*2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications".</li>
+    <li>*2024.10*: I gave a talk at RLChina 2024: Controllable diffusion and optimization models for generation and decision of Embodied AI.</li> 
+    <li>*2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 3 Submissions with 3 Acceptances. </li> 
+    <li>*2024.5*: Two Papers accepted by **ICML 2024**. Congratulations to Lingxiao Yang and Tianyu Cui. 3 Submissions with 2 Acceptances. </li> 
+    <li>*2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications".</li> 
     <li>*2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li!</li>
-      <li>*2024.2*: Three Papers accepted by **CVPR 2024**. 4 Submissions with 3 Acceptances.</li>
+      <li>*2024.2*: Three Papers accepted by **CVPR 2024**. 4 Submissions with 3 Acceptances.</li> 
       <li>*2024.1*: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by **ICLR 2024**. 1 Submission with 1 Acceptance. </li>
       <li>*2023.12*: Two Papers accepted by **AAAI 2024**. 2 Submissions with 2 Acceptances.</li>
       <li>*2023.11*: I gave a talk at RLChina 2023: "Towards Responsible Decision and Control via Implicit Networks".</li>
@@ -106,7 +106,8 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
 [[**paper**]](https://arxiv.org/abs/2405.16173)
-[[**code**]](https://github.com/wadx2019/qvpo-webpage)
+[[**Project**]](https://dingsht.tech/qvpo-webpage)
+[[**code**]](https://github.com/wadx2019/qvpo)
 
 </div>
 </div>
