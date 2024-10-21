@@ -106,7 +106,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
 [[**paper**]](https://arxiv.org/abs/2405.16173)
-[[**Project**]](https://dingsht.tech/qvpo-webpage)
+[[**project**]](https://dingsht.tech/qvpo-webpage)
 [[**code**]](https://github.com/wadx2019/qvpo)
 
 </div>
