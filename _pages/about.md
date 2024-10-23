@@ -518,7 +518,9 @@ School of Information Science and Technology, ShanghaiTech University.
 - *2010* National Scholarship, Chinese Ministry of Education, China.
 
 # 💬 Talks 
-- *2023.11*, Towards Responsible Decision and Control via Implicit Networks, RLChina 2023.
+- *2024.10*, Controllable diffusion and optimization models for generation and decision in Embodied AI, RLChina 2024. 
+- *2024.04*, Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications, The 1st China Embodied AI Conference. 
+- *2023.11*, Towards Responsible Decision and Control via Implicit Networks, RLChina 2023. 
 - *2019.10*, Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, Beijing.
 - *2018.04*, Nonconvex and nonsmooth optimization in smart grids, International Forum for Interdisciplinary Sciences and Engineering Open Forum, Wuhan University.
 - *2016.11*, Nonconvex Spectral Algorithm for Solving BMI on the Reduced Order H∞ Control, IEEE International Conference on Control Systems, Computing and Engineering, Penang, Malaysia.
