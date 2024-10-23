@@ -529,12 +529,12 @@ School of Information Science and Technology, ShanghaiTech University.
 The 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2019).
 - **Program committee**
   + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024, ICML 2024, NeurIPS 2024, AAAI 2025, ICLR 2025, etc. 
-
 - **Reviewer**
   + TNNLS, TIP, JSAC, TSG, TFS, TSE, TII, TIE, TIV, TIM, TMLR, IJRNC, etc.
-<!-- + IEEE Transactions on Image Processing
+<!-- -
+  + IEEE Transactions on Image Processing
   + IEEE Journal on Selected Areas in Communications
-  + IEEE Transactions on Fuzzy System
+  + IEEE Transactions on Fuzzy Systems
   + IEEE Transactions on Smart Grid
   + IEEE Transactions on Power System
   + IEEE Transactions on Sustainable Energy
@@ -547,7 +547,8 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + IEEE Systems Journal
   + International Journal of Robust and Nonlinear Control
   + Information Sciences
-  + Applied Soft Computing -->
+  + Applied Soft Computing 
+-->
 
 # 🧑‍🏫 Teaching
 - Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn, 2024 Autumn. 
