@@ -44,6 +44,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
   <ul>
     <li>*2024.10*: I gave a talk at RLChina 2024: Controllable diffusion and optimization models for generation and decision in Embodied AI.</li> 
     <li>*2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 3 Submissions with 3 Acceptances. </li> 
+    <li>*2024.7*: One Papers accepted by **ACM Multimedia 2024**. Congratulations to Chaofan Huo, 1 Submission with 1 Acceptance. </li> 
     <li>*2024.5*: Two Papers accepted by **ICML 2024**. Congratulations to Lingxiao Yang and Tianyu Cui. 3 Submissions with 2 Acceptances. </li> 
     <li>*2024.3*: I gave a talk at The 1st China Embodied AI Conference: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications".</li> 
     <li>*2024.3*: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by IEEE Trans. Smart Grid. Congratulations to Qi Li!</li>
