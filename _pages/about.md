@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia and a Postdoctoral Fellow at the University of Technology Sydney from 2017 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021. He is the Director of the YesAI Lab at ShanghaiTech University. 
+Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia and a Postdoctoral Fellow at the University of Technology Sydney from 2017 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021. He is leading the YesAI Lab at ShanghaiTech University. 
 
 # ✡️ Research Interests 
 
@@ -532,8 +532,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 
 - **Reviewer**
   + TNNLS, TIP, JSAC, TSG, TFS, TSE, TII, TIE, TIV, TIM, TMLR, IJRNC, etc.
-<!-- -
-  + IEEE Transactions on Image Processing
+<!-- + IEEE Transactions on Image Processing
   + IEEE Journal on Selected Areas in Communications
   + IEEE Transactions on Fuzzy System
   + IEEE Transactions on Smart Grid
@@ -548,8 +547,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + IEEE Systems Journal
   + International Journal of Robust and Nonlinear Control
   + Information Sciences
-  + Applied Soft Computing
--->
+  + Applied Soft Computing -->
 
 # 🧑‍🏫 Teaching
 - Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn, 2024 Autumn. 
