@@ -104,7 +104,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 
 **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, arXiv:2502.05749**
 
-Kaizhen Zhu, Mokai Pan, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
+Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
 [[**paper**]](https://arxiv.org/abs/2502.05749)
 [[**project**]](https://unidb-soc.github.io/UniDB_page)
@@ -118,7 +118,7 @@ Kaizhen Zhu, Mokai Pan, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\*
 
 **NLPrompt: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, 	arXiv:2412.01256**
 
-Bikang Pan, Qun Li, Xiaoying Tang, Wei Huang, Zhen Fang, Feng Liu, Jingya Wang, Jingyi Yu, **Ye Shi\***
+Bikang Pan\#, Qun Li\#, Xiaoying Tang, Wei Huang, Zhen Fang, Feng Liu, Jingya Wang, Jingyi Yu, **Ye Shi\***
 
 [[**paper**]](https://arxiv.org/abs/2412.01256v1)
 [[**code**]](https://github.com/qunovo/NLPrompt)
@@ -156,7 +156,7 @@ Haixiang Sun, **Ye Shi\***
 
 **Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method, NeurIPS 2024**
 
-Bikang Pan, Wei Huang, **Ye Shi\***
+Bikang Pan, Wei Huang*, **Ye Shi\***
 
 [[**paper**]](https://arxiv.org/abs/2409.19610)
 [[**code**]](https://github.com/PanBikang/PromptFolio)
