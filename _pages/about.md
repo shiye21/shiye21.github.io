@@ -23,7 +23,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 
 - **Trustworthy AI:** controllable, robust, efficient, and safe AI methods, particularly interested in diffusion models, reinforcement learning, and federated learning;  
 
-- **Deep Learning Basics:** optimal transport, implicit differentiation, optimization layer, deep equilibrium models; 
+- **Deep Learning Basics:** optimal transport, optimization layer, deep equilibrium models; 
 
 - **AI \& Optimization Applications**: optimization and control, humanoid robot, embodied AI, smart grid, etc. 
 
