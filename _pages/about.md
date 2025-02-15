@@ -216,7 +216,7 @@ Jiangnan Tang, Jingya Wang\*, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-HOI.png' alt="sym" width="100%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-HOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment, CVPR 2024**
@@ -229,6 +229,7 @@ Juze Zhang, Jingyan Zhang, Zining Song, Zhanhe Shi, Chengfeng Zhao, **Ye Shi**, 
 
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24-Fed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -374,7 +375,7 @@ Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Weipng Ding, Chin-Teng 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/NeuralDome.png' alt="sym" width="100%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/NeuralDome.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions, CVPR 2023**
@@ -384,6 +385,7 @@ Juze Zhang, Haimin Luo, Hongdi Yang, Xinru Xu, Qianyang Wu, **Ye Shi**, Jingyi Y
 [[**paper**]](https://arxiv.org/pdf/2212.07626.pdf) [[**project**]](https://juzezhang.github.io/NeuralDome) [[**video**]](https://www.youtube.com/watch?v=Nb82f5dm2GE)
 </div>
 </div>
+-->
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/publications/RFNN.png' alt="sym" width="100%"></div></div>
