@@ -116,7 +116,7 @@ Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/NLPrompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**NLPrompt: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, 	arXiv:2412.01256**
+**NLPrompt: Noise-Label Prompt Learning for Vision-Language Models,	arXiv:2412.01256**
 
 Bikang Pan\#, Qun Li\#, Xiaoying Tang, Wei Huang, Zhen Fang, Feng Liu, Jingya Wang, Jingyi Yu, **Ye Shi\***
 
