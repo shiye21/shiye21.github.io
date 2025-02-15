@@ -99,6 +99,34 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, arXiv:2502.05749**
+
+Kaizhen Zhu, Mokai Pan, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2502.05749)
+[[**project**]](https://unidb-soc.github.io/UniDB_page)
+[[**code**]](https://github.com/UniDB-SOC/UniDB)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/NLPrompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**NLPrompt: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, 	arXiv:2412.01256**
+
+Bikang Pan, Qun Li, Xiaoying Tang, Wei Huang, Zhen Fang, Feng Liu, Jingya Wang, Jingyi Yu, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2412.01256v1)
+[[**code**]](https://github.com/qunovo/NLPrompt)
+
+</div>
+</div>
+ 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
