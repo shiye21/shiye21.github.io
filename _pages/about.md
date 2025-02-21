@@ -113,6 +113,18 @@ Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye S
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DiOPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DiOpt: Self-supervised Diffusion for Constrained Optimization, arXiv:2502.10330**
+
+Shutong Ding, Yimiao Zhou, Ke Hu, Xi Yao, Junchi Yan, Xiaoying Tang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2502.10330)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/NLPrompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
