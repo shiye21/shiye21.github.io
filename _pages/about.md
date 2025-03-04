@@ -42,7 +42,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 # 🔥 News 
 <div id="news-section">
   <ul>
-    <li>*2025.2*: Three Papers accepted by **CVPR 2025**. Congratulations to Bikang Pan, Qun Li, Shijie Wu, Yihang Zhu. 5 Submissions with 3 Acceptances. </li> 
+    <li>*2025.2*: Three Papers accepted by **CVPR 2025**. Congratulations to Bikang Pan, Qun Li; Shijie Wu, Yihang Zhu; Chunlin Yu, Hanqing Wang. 4 Submissions with 3 Acceptances. </li> 
     <li>*2024.10*: I gave a talk at RLChina 2024: Controllable diffusion and optimization models for generation and decision in Embodied AI.</li> 
     <li>*2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 3 Submissions with 3 Acceptances. </li> 
     <li>*2024.7*: One Paper accepted by **ACM Multimedia 2024**. Congratulations to Chaofan Huo, 1 Submission with 1 Acceptance. </li> 
