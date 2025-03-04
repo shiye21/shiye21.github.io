@@ -160,6 +160,7 @@ Shijie Wu\#, Yihang Zhu\#, Yunao Huang, Kaizhen Zhu, Jiayuan Gu, Jingyi Yu, **Ye
 Chunlin Yu\#, Hanqing Wang\#, **Ye Shi**, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang
 
 [[**paper**]](https://arxiv.org/abs/2412.01550) 
+[[**project**]](https://seq-afford.github.io/)
 
 </div>
 </div>
