@@ -152,6 +152,18 @@ Shijie Wu\#, Yihang Zhu\#, Yunao Huang, Kaizhen Zhu, Jiayuan Gu, Jingyi Yu, **Ye
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/SeqAfford.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model,	CVPR 2025.**
+
+Chunlin Yu\#, Hanqing Wang\#, **Ye Shi**, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang
+
+[[**paper**]](https://arxiv.org/abs/2412.01550) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
