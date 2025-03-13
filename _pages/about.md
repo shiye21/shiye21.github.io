@@ -571,7 +571,7 @@ School of Information Science and Technology, ShanghaiTech University.
 - **Postdoctoral Fellow** (2019.07-2020.12):  
   + Australian Artificial Intelligence Institute, School of Computer Science, University of Technology Sydney.
   + Supervisor: Prof. Chin-Teng Lin (IEEE Fellow), E-mail: chin-teng.lin@uts.edu.au.
-- **Research Assistant** (2017.03-2019.06): 
+- **Research Assistant** (2018.11-2019.06): 
   + School of Electrical Engineering and Telecommunications, Faculty of Engineering, University of New South Wales.
   + Supervisor: Prof. Andrey V. Savkin, E-mail: a.savkin@unsw.edu.au
 
