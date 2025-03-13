@@ -186,8 +186,10 @@ Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wan
 
 Haixiang Sun, **Ye Shi\***
 
-</div>
-</div>
+[[**paper**]](https://arxiv.org/abs/2410.23391)
+
+</div> 
+</div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/PromptFolio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
