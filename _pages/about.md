@@ -342,7 +342,7 @@ Shutong Ding\#, Tianyu Cui\#, Jingya Wang, **Ye Shi\***
 
 Wanxing Chang, **Ye Shi**, Jingya Wang
 
-[[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b0da24d136f46bfaee78e8da907127e-Abstract-Conference.html)
+[[**paper**]](https://arxiv.org/abs/2312.06221)
 [[**project**]](https://changwxx.github.io/CSOT-webpage/)
 [[**code**]](https://github.com/changwxx/CSOT-for-LNL)
 
