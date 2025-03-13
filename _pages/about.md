@@ -613,10 +613,10 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 - **Ph.D. Students** 
   + Bikang Pan: B.E. at ShanghaiTech University.
   + Shutong Ding: B.E. at Fuzhou University.
-  + Jiebao Zhang (jointly with Prof Haoyu Wang): M.S. at Yunnan University. 
+  + Jiebao Zhang: M.S. at Yunnan University.
 - **Master Students** 
   + Xinru Xu: B.E. at ShanghaiTech University. 
-  + Tianyu Cui: B.S. at the University of Science and Technology of China. 
+  + Tianyu Cui: B.S. at the University of Science and Technology of China.
   + Jiangnan Tang: B.E. at Beijing University of Posts and Telecommunications.
   + Lingxiao Yang: B.E. at Northeastern University.
   + Haoyu Yan: B.E. at Wuhan University of Technology.
@@ -627,7 +627,17 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Wentao Jiang: B.E. at China University of Mining and Technology. 
   + Yahao Fan: B.E. at Zhengzhou University.
   + Zhenhao Zhang: B.E. at China University of Petroleum.
-  + Kaizhen Zhu (jointly with Prof Jingya Wang): B.E. at Hangzhou Dianzi University. 
+  + Kaizhen Zhu (jointly with Prof Jingya Wang): B.E. at Hangzhou Dianzi University.
+  + Yimiao Zhou: B.E. at ShanghaiTech University.
+  + Mokai Pan: B.E. at ShanghaiTech University.
+  + Yikai Liu: B.E. at Northeastern University.
+  + Liu Liu: B.E. at Chongqing University. 
+  + Tianxiang Gui: B.E. at Southwest Jiaotong University.
+- **Undergraduate Students**
+  + Hangxing Zhang: B.E. at ShanghaiTech University. 
+  + Ziyu Cheng: B.E. at ShanghaiTech University. 
+  + Zhechuan Yu: B.E. at ShanghaiTech University.
+  + Haoyu Li: B.E. at ShanghaiTech University.
 - **Visiting Students**
   + Jun Xue: B.S. at Tongji University.
   + Fan Liu: M.S. at The University of Glasgow. 
