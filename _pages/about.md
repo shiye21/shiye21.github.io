@@ -144,7 +144,7 @@ Bikang Pan\#, Qun Li\#, Xiaoying Tang, Wei Huang, Zhen Fang, Feng Liu, Jingya Wa
 
 **AffordDP: Generalizable Diffusion Policy with Transferable Affordance,	CVPR 2025.**
 
-Shijie Wu\#, Yihang Zhu\#, Yunao Huang, Kaizhen Zhu, Jiayuan Gu, Jingyi Yu, **Ye Shi**, Jingya Wang
+Shijie Wu\#, Yihang Zhu\#, Yunao Huang, Kaizhen Zhu, Jiayuan Gu, Jingyi Yu, **Ye Shi\***, Jingya Wang\*
 
 [[**paper**]](https://arxiv.org/abs/2412.03142)
 [[**project**]](https://afforddp.github.io/)
