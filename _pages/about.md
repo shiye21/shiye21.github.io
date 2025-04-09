@@ -42,6 +42,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 # 🔥 News 
 <div id="news-section">
   <ul>
+    <li>*2025.4*: I will serve as an Area Chair for **NeurIPS 2025**. 
     <li>*2025.2*: Three Papers accepted by **CVPR 2025**. Congratulations to Bikang Pan, Qun Li; Shijie Wu, Yihang Zhu; Chunlin Yu, Hanqing Wang. 4 Submissions with 3 Acceptances. </li> 
     <li>*2024.10*: I gave a talk at RLChina 2024: Controllable diffusion and optimization models for generation and decision in Embodied AI.</li> 
     <li>*2024.9*: Three Papers accepted by **NeurIPS 2024**. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 3 Submissions with 3 Acceptances. </li> 
@@ -161,6 +162,7 @@ Chunlin Yu\#, Hanqing Wang\#, **Ye Shi**, Haoyang Luo, Sibei Yang, Jingyi Yu, Ji
 
 [[**paper**]](https://arxiv.org/abs/2412.01550) 
 [[**project**]](https://seq-afford.github.io/)
+[[**code**]](https://github.com/hq-King/SeqAfford)
 
 </div>
 </div>
