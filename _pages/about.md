@@ -44,16 +44,16 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
   <ul>
     <li><em>2025.4</em>: I will serve as an Area Chair for <strong>NeurIPS 2025</strong>. </li> 
     <li><em>2025.2</em>: Three Papers accepted by <strong>CVPR 2025</strong>. Congratulations to Bikang Pan, Qun Li; Shijie Wu, Yihang Zhu; Chunlin Yu, Hanqing Wang. 4 Submissions with 3 Acceptances. </li> 
-    <li><em>2024.10</em>: I gave a talk at <strong>RLChina 2024<strong>: Controllable diffusion and optimization models for generation and decision in Embodied AI.</li> 
+    <li><em>2024.10</em>: I gave a talk at <strong>RLChina 2024</strong>: Controllable diffusion and optimization models for generation and decision in Embodied AI.</li> 
     <li><em>2024.9</em>: Three Papers accepted by <strong>NeurIPS 2024</strong>. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 3 Submissions with 3 Acceptances. </li> 
     <li><em>2024.7</em>: One Paper accepted by <strong>ACM Multimedia 2024</strong>. Congratulations to Chaofan Huo, 1 Submission with 1 Acceptance. </li> 
     <li><em>2024.5</em>: Two Papers accepted by <strong>ICML 2024</strong>. Congratulations to Lingxiao Yang and Tianyu Cui. 3 Submissions with 2 Acceptances. </li> 
-    <li><em>2024.3</em>: I gave a talk at The 1st <strong>China Embodied AI Conference<strong>: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications".</li> 
-    <li><em>2024.3</em>: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by <strong>IEEE Trans. Smart Grid<strong>. Congratulations to Qi Li!</li>
+    <li><em>2024.3</em>: I gave a talk at The 1st <strong>China Embodied AI Conference</strong>: "Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications".</li> 
+    <li><em>2024.3</em>: Our Paper "A Distributionally Robust Model Predictive Control for Static and Dynamic Uncertainties in Smart Grids" has been accepted by <strong>IEEE Trans. Smart Grid</strong>. Congratulations to Qi Li!</li>
       <li><em>2024.2</em>: Three Papers accepted by <strong>CVPR 2024</strong>. 4 Submissions with 3 Acceptances.</li> 
       <li><em>2024.1</em>: Our Paper "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory" has been accepted by <strong>ICLR 2024</strong>. 1 Submission with 1 Acceptance. </li>
       <li><em>2023.12</em>: Two Papers accepted by <strong>AAAI 2024</strong>. 2 Submissions with 2 Acceptances.</li>
-      <li><em>2023.11</em>: I gave a talk at <strong>RLChina 2023<strong>: "Towards Responsible Decision and Control via Implicit Networks".</li>
+      <li><em>2023.11</em>: I gave a talk at <strong>RLChina 2023</strong>: "Towards Responsible Decision and Control via Implicit Networks".</li>
       <li><em>2023.09</em>: Five Papers accepted by <strong>NeurIPS 2023</strong>. 6 Submissions with 5 Acceptances.</li>
 <div id="more-news" style="display: none;">
 <!-- 从第X个 news 开始放在这里 -->
