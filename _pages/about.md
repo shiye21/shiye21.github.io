@@ -38,7 +38,6 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 - **Undergraduates/Visting Students:** We warmly welcome students majoring in Machine Learning, Computer Science, Mathematics, Electrical Engineering and other related disciplines to join our group;
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
-
 # 🔥 News 
 <div id="news-section">
   <ul>
