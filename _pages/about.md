@@ -581,17 +581,17 @@ School of Information Science and Technology, ShanghaiTech University.
 
 # 🎖️ Awards 
 - *2025* Our paper UniDB won <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. 
-- *2024* My students received the NeurIPS 2023 Scholar Award. 
-- *2021* Best Student Paper Award (Corresponding author) at Australia Artificial Intelligence Institute. 
-- *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
-- *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia. 
-- *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia. 
-- *2016* Best Paper Award, the 6th IEEE International Conference on Control Systems, Computing and Engineering, Malaysia.
-- *2016* ARC Discovery Scholarship, the University of Technology Sydney, 2014-2016, Australia.
-- *2016* International Research Scholarships, University of Technology Sydney, 2014-2016, Australia.
-- *2013* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America. 
-- *2012* First Prize of Chinese Undergraduate Mathematical Contest for Modeling (CUMCM), China Society for Industrial and Applied Mathematics, China.
-- *2010* National Scholarship, Chinese Ministry of Education, China. 
+- *2024* My students received the <strong>NeurIPS 2023 Scholar Award</strong>. 
+- *2021* <strong>Best Student Paper Award</strong> (Corresponding author) at Australia Artificial Intelligence Institute. 
+- *2019* <strong>Outstanding Overseas Students Award</strong>, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
+- *2018* <strong>FEIT PhD Post Thesis Publication Award</strong>, University of Technology Sydney 2018, Australia. 
+- *2017* <strong>Higher Degree Research Publication Award</strong>, University of Technology Sydney, Australia. 
+- *2016* <strong>Best Paper Award</strong>, the 6th IEEE International Conference on Control Systems, Computing and Engineering, Malaysia.
+- *2016* <strong>ARC Discovery Scholarship</strong>, the University of Technology Sydney, 2014-2016, Australia.
+- *2016* <strong>International Research Scholarships</strong>, University of Technology Sydney, 2014-2016, Australia.
+- *2013* <strong>Meritorious Winner</strong> of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America. 
+- *2012* <strong>First Prize</strong> of Chinese Undergraduate Mathematical Contest for Modeling (CUMCM), China Society for Industrial and Applied Mathematics, China.
+- *2010* <strong>National Scholarship</strong>, Chinese Ministry of Education, China. 
 
 # 💬 Talks 
 - *2024.10*, Controllable diffusion and optimization models for generation and decision in Embodied AI, RLChina 2024. 
