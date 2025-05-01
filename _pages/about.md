@@ -42,8 +42,9 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 # 🔥 News 
 <div id="news-section">
   <ul>
-    <li><em>2025.4</em>: Our paper UniDB win <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. Congratulations to Kaizhen Zhu and Mokai Pan!</li>
-    <li><em>2025.4</em>: I will serve as an Area Chair for <strong>NeurIPS 2025</strong>. </li> 
+    <li><em>2025.4</em>: One paper accepted by <strong>ICML 2025</strong> as a <strong>Spotlight</strong>. Congratulations to Kaizhen Zhu and Mokai Pan!</li>
+    <li><em>2025.4</em>: Our paper UniDB won <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. Congratulations to Kaizhen Zhu and Mokai Pan!</li>
+    <li><em>2025.4</em>: I will serve as an Area Chair for <strong>NeurIPS 2025</strong>. </li>
     <li><em>2025.2</em>: Three Papers accepted by <strong>CVPR 2025</strong>. Congratulations to Bikang Pan, Qun Li (<strong>Spotlight</strong>); Shijie Wu, Yihang Zhu; Chunlin Yu, Hanqing Wang. 4 Submissions with 3 Acceptances. </li> 
     <li><em>2024.10</em>: I gave a talk at <strong>RLChina 2024</strong>: Controllable diffusion and optimization models for generation and decision in Embodied AI.</li> 
     <li><em>2024.9</em>: Three Papers accepted by <strong>NeurIPS 2024</strong>. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 3 Submissions with 3 Acceptances. </li> 
@@ -579,17 +580,18 @@ School of Information Science and Technology, ShanghaiTech University.
   + Supervisor: Prof. Andrey V. Savkin, E-mail: a.savkin@unsw.edu.au
 
 # 🎖️ Awards 
+- *2025* Our paper UniDB won <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. 
 - *2024* My students received the NeurIPS 2023 Scholar Award. 
 - *2021* Best Student Paper Award (Corresponding author) at Australia Artificial Intelligence Institute. 
 - *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
-- *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia.
-- *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia.
+- *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia. 
+- *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia. 
 - *2016* Best Paper Award, the 6th IEEE International Conference on Control Systems, Computing and Engineering, Malaysia.
 - *2016* ARC Discovery Scholarship, the University of Technology Sydney, 2014-2016, Australia.
 - *2016* International Research Scholarships, University of Technology Sydney, 2014-2016, Australia.
 - *2013* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America. 
 - *2012* First Prize of Chinese Undergraduate Mathematical Contest for Modeling (CUMCM), China Society for Industrial and Applied Mathematics, China.
-- *2010* National Scholarship, Chinese Ministry of Education, China.
+- *2010* National Scholarship, Chinese Ministry of Education, China. 
 
 # 💬 Talks 
 - *2024.10*, Controllable diffusion and optimization models for generation and decision in Embodied AI, RLChina 2024. 
