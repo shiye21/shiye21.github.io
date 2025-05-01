@@ -42,8 +42,9 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 # 🔥 News 
 <div id="news-section">
   <ul>
+    <li><em>2025.4</em>: Our paper UniDB win <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. Congratulations to Kaizhen Zhu and Mokai Pan!</li>
     <li><em>2025.4</em>: I will serve as an Area Chair for <strong>NeurIPS 2025</strong>. </li> 
-    <li><em>2025.2</em>: Three Papers accepted by <strong>CVPR 2025</strong>. Congratulations to Bikang Pan, Qun Li; Shijie Wu, Yihang Zhu; Chunlin Yu, Hanqing Wang. 4 Submissions with 3 Acceptances. </li> 
+    <li><em>2025.2</em>: Three Papers accepted by <strong>CVPR 2025</strong>. Congratulations to Bikang Pan, Qun Li (<strong>Spotlight</strong>); Shijie Wu, Yihang Zhu; Chunlin Yu, Hanqing Wang. 4 Submissions with 3 Acceptances. </li> 
     <li><em>2024.10</em>: I gave a talk at <strong>RLChina 2024</strong>: Controllable diffusion and optimization models for generation and decision in Embodied AI.</li> 
     <li><em>2024.9</em>: Three Papers accepted by <strong>NeurIPS 2024</strong>. Congratulations to Shutong Ding, Bikang Pan, Haixiang Sun. 3 Submissions with 3 Acceptances. </li> 
     <li><em>2024.7</em>: One Paper accepted by <strong>ACM Multimedia 2024</strong>. Congratulations to Chaofan Huo, 1 Submission with 1 Acceptance. </li> 
@@ -101,10 +102,10 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, arXiv:2502.05749**
+**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, ICML 2025 Spotlight**
 
 Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
