@@ -29,7 +29,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 
 <!-- **Quantum Computing**: quantum annealing, quantum machine learning. --> 
 
-Our recent research interests mainly focus on Generative Models such as Diffusion/Flow Matching, Diffusion RL, Diffusion Policy, Embodied AI, Humanoid Robots, Large Multimodal Models, and on the fundamental optimizations underlying them. We are interested in developing AI algorithms that are more controllable, robust, efficient, and safe. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., humanoid robots, smart grids, etc. 
+Our recent research interests mainly focus on the Generative Models such as Diffusion/Flow Matching, Diffusion RL, Diffusion Policy, Embodied AI, Humanoid Robots, Large Multimodal Models, and on the fundamental optimizations underlying them. We are interested in developing AI algorithms that are more controllable, robust, efficient, and safe. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., humanoid robots, smart grids, etc. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
