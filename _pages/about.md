@@ -36,8 +36,8 @@ Our recent research interests mainly focus on the Generative Models such as Diff
 # 🔊 Position Openings 
 - **PhD Students:** 1-2 PhD positions available with topics of Generative Models, Embodied AI, and Large Multimodal Models. 
 - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Diffusion/Flow Matching, Diffusion RL, Diffusion Policy, Embodied AI, Humanoid Robots, Large Multimodal Models, Smart Grids, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV; 
-- **Undergraduates/Visting Students:** We warmly welcome students majoring in Machine Learning, Computer Science, Mathematics, Electrical Engineering and other related disciplines to join our group;
-- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
+- **Undergraduates/Visting Students:** We warmly welcome students majoring in Computer Science, Mathematics, Robotics, Electrical Engineering and other related disciplines to join our group; 
+- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, Robotics, electrical engineering, control, or related areas is required. 
 
 # 🔥 News 
 <div id="news-section">
