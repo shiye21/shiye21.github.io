@@ -125,7 +125,7 @@ Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye S
 
 **Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, ArXiv:2503.18349**
 
-Zekai Deng, **Ye Shi\**, Kaiyang Ji, Lan Xu, Shaoli Huang, Jingya Wang
+Zekai Deng, **Ye Shi**, Kaiyang Ji, Lan Xu, Shaoli Huang, Jingya Wang
 
 [[**paper**]](https://arxiv.org/pdf/2503.18349)
 [[**project**]](https://rmd-hoi.github.io/)
