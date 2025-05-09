@@ -34,8 +34,9 @@ Our recent research interests mainly focus on the Generative Models such as Diff
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔊 Position Openings 
-- **PhD Students:** 1-2 PhD positions available with topics of Generative Models, Embodied AI, and Large Multimodal Models. 
-- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Diffusion/Flow Matching, Diffusion RL, Diffusion Policy, Embodied AI, Humanoid Robots, Large Multimodal Models, Smart Grids, etc.
+
+- **PhD Students:** 1-2 PhD positions available with topics of Generative Models and Embodied AI. 
+- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Generative Models, Reinforcement Learning, Embodied AI, Large Multimodal Models, Humanoid Robots, Smart Grids, etc. 
 - **Undergraduates/Visting Students:** We warmly welcome students majoring in Computer Science, Mathematics, Robotics, Electrical Engineering and other related disciplines to join our group. 
 - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, Robotics, electrical engineering, control, or related areas is required. 
 
