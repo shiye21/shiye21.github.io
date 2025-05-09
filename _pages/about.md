@@ -20,16 +20,16 @@ redirect_from:
 Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia and a Postdoctoral Fellow at the University of Technology Sydney from 2017 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021. He is leading the YesAI Lab at ShanghaiTech University. 
 
 # ✡️ Research Interests 
+<!-- 
+- **Trustworthy AI:** controllable, robust, efficient, and safe AI methods, particularly interested in Diffusion Models, Reinforcement Learning and Large Multimodal Models; 
 
-- **Trustworthy AI:** controllable, robust, efficient, and safe AI methods, particularly interested in diffusion models, reinforcement learning, and federated learning;  
+- **Deep Learning Basics:** Optimal Transport, optimization layer, deep equilibrium models;
 
-- **Deep Learning Basics:** optimal transport, optimization layer, deep equilibrium models; 
-
-- **AI \& Optimization Applications**: optimization and control, humanoid robot, embodied AI, smart grid, etc. 
+- **AI \& Optimization Applications**: optimization and control, humanoid robot, embodied AI, smart grid, etc.  -->
 
 <!-- **Quantum Computing**: quantum annealing, quantum machine learning. --> 
 
-<!-- Our recent research interests mainly focus on Diffusion, Embodied AI, 3D Vision, Reinforcement Learning, Federated Learning, Smart Energy, and on the fundamental optimizations underlying them. We are interested in developing AI algorithms that are more reliable, more robust, more privacy-preserving and more memory-efficient AI models. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learning to optimize, AI for Carbon Neutrality, etc. -->
+Our recent research interests mainly focus on Generative Models such as Diffusion/Flow Matching, Diffusion RL, Diffusion Policy, Embodied AI, Humanoid Robots, Large Multimodal Models, and on the fundamental optimizations underlying them. We are interested in developing AI algorithms that are more controllable, robust, efficient, and safe. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., humanoid robots, smart grids, etc. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -41,7 +41,7 @@ Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney, Aus
 # 🔥 News 
 <div id="news-section">
   <ul>
-    <li><em>2025.5</em>: One paper accepted by <strong>ICML 2025</strong> as a <strong>Spotlight</strong>. Congratulations to Kaizhen Zhu and Mokai Pan!</li>
+    <li><em>2025.5</em>: One paper accepted by <strong>ICML 2025</strong> as a <strong>Spotlight</strong>. Congratulations to Kaizhen Zhu and Mokai Pan!</li> 2 Submissions with 1 Acceptance.
     <li><em>2025.4</em>: Our paper UniDB won <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. Congratulations to Kaizhen Zhu and Mokai Pan!</li>
     <li><em>2025.4</em>: I will serve as an Area Chair for <strong>NeurIPS 2025</strong>. </li>
     <li><em>2025.2</em>: Three Papers accepted by <strong>CVPR 2025</strong>. Congratulations to Bikang Pan, Qun Li (<strong>Spotlight</strong>); Shijie Wu, Yihang Zhu; Chunlin Yu, Hanqing Wang. 4 Submissions with 3 Acceptances. </li> 
