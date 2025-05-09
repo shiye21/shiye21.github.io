@@ -46,7 +46,7 @@ A solid mathematical background and sufficient programming skills are required. 
 <div id="news-section">
   <ul>
     <li><em>2025.5</em>: One paper accepted by <strong>ICML 2025</strong> as a <strong>Spotlight</strong>. Congratulations to Kaizhen Zhu and Mokai Pan! 2 Submissions with 1 Acceptance. </li> 
-    <li><em>2025.4</em>: Our paper UniDB won <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. Congratulations to Kaizhen Zhu and Mokai Pan! 1 Submissions with 1 Acceptance. </li>
+    <li><em>2025.4</em>: Our paper UniDB won <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. Congratulations to Kaizhen Zhu and Mokai Pan! </li>
     <li><em>2025.4</em>: I will serve as an Area Chair for <strong>NeurIPS 2025</strong>. </li>
     <li><em>2025.2</em>: Three Papers accepted by <strong>CVPR 2025</strong>. Congratulations to Bikang Pan, Qun Li (<strong>Spotlight</strong>); Shijie Wu, Yihang Zhu; Chunlin Yu, Hanqing Wang. 4 Submissions with 3 Acceptances. </li> 
     <li><em>2024.10</em>: I gave a talk at <strong>RLChina 2024</strong>: Controllable diffusion and optimization models for generation and decision in Embodied AI.</li> 
