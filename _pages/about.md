@@ -109,7 +109,7 @@ A solid mathematical background and sufficient programming skills are required. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, ICML 2025 Spotlight**
+**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">ICML 2025 Spotlight</span>**
 
 Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
