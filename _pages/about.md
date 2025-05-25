@@ -290,7 +290,7 @@ Hongxia Li, Wei Huang, Jingya Wang, **Ye Shi\***
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-S2Fusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**$\text{S}^2$Fusion: A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals, CVPR 2024**
+**S2Fusion: A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals, CVPR 2024**
 
 Jiangnan Tang, Jingya Wang\*, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
 
