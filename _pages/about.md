@@ -674,7 +674,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Wentao Jiang: B.E. at China University of Mining and Technology. 
   + Yahao Fan: B.E. at Zhengzhou University.
   + Zhenhao Zhang: B.E. at China University of Petroleum.
-  + Kaizhen Zhu (jointly with Prof Jingya Wang): B.E. at Hangzhou Dianzi University.
+  + Kaizhen Zhu: B.E. at Hangzhou Dianzi University.
   + Yimiao Zhou: B.E. at ShanghaiTech University.
   + Mokai Pan: B.E. at ShanghaiTech University.
   + Yikai Liu: B.E. at Northeastern University.
