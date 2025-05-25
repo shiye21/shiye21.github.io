@@ -109,7 +109,7 @@ A solid mathematical background and sufficient programming skills are required. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">ICML 2025 Spotlight</span>**
+**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">ICML 2025 Spotlight.</span>**
 
 Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
@@ -148,7 +148,7 @@ Shutong Ding, Yimiao Zhou, Ke Hu, Xi Yao, Junchi Yan, Xiaoying Tang, **Ye Shi\**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/NLPrompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**NLPrompt: Noise-Label Prompt Learning for Vision-Language Models,	CVPR 2025 Highlight.**
+**NLPrompt: Noise-Label Prompt Learning for Vision-Language Models,	<span style="color:red;">CVPR 2025 Highlight.</span>**
 
 Bikang Pan\#, Qun Li\#, Xiaoying Tang, Wei Huang, Zhen Fang, Feng Liu, Jingya Wang, Jingyi Yu, **Ye Shi\***
 
