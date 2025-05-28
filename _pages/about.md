@@ -109,11 +109,12 @@ A solid mathematical background and sufficient programming skills are required. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/GenPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, ArXiv.**
+**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, ArXiv.** 
 
 Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, **Ye Shi\***
 
-[[**project**]](https://anonymous-project365.github.io/) 
+[[**paper**]](https://www.arxiv.org/abs/2505.18763)
+[[**project**]](https://anonymous-project365.github.io/)  
 
 </div>
 </div>
@@ -125,6 +126,7 @@ Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wan
 
 Yahao Fan, Tianxiang Gui, Kaiyang Ji, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
+[[**paper**]](https://www.arxiv.org/abs/2505.18780)
 [[**project**]](https://dreampolicy.github.io/) 
 
 </div>
