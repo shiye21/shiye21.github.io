@@ -43,8 +43,11 @@ Our recent research interests mainly focus on the Generative Models such as Diff
 A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV. 
 
 # 🔥 News 
-<div id="news-section">
+<div id="news-section">  
   <ul>
+    <li><em>2025.6</em>: We will host a Workshop "Human-Robot-Scene Interaction and Collaboration" at ICCV 2025. </li> 
+    <li><em>2025.6</em>: I will give a talk "Diffusion-Driven Embodied AI: Breakthroughs in Theory and Algorithmic Frontiers" at VALSE 2025. </li> 
+    <li><em>2025.5</em>: We host a Workshop "Humanoid Locomotion and Interaction" at the 2025 Zhangjiang Embodied AI Conference. </li> 
     <li><em>2025.5</em>: One paper accepted by <strong>ICML 2025</strong> as a <strong>Spotlight</strong>. Congratulations to Kaizhen Zhu and Mokai Pan! 2 Submissions with 1 Acceptance. </li> 
     <li><em>2025.4</em>: Our paper UniDB won <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. Congratulations to Kaizhen Zhu and Mokai Pan! </li>
     <li><em>2025.4</em>: I will serve as an Area Chair for <strong>NeurIPS 2025</strong>. </li>
@@ -638,6 +641,8 @@ School of Information Science and Technology, ShanghaiTech University.
 - *2010* <strong>National Scholarship</strong>, Chinese Ministry of Education, China. 
 
 # 💬 Talks 
+- *2025.06*, Diffusion-driven Embodied AI: Breakthroughs in Theory and Algorithmic Frontiers, the Vision And Learning Seminar (VALSE) 2025. 
+- *2025.05*, Generative Models for Humanoid Locomotion and Manipulation, the 2025 Zhangjiang Embodied AI Conference. 
 - *2024.10*, Controllable diffusion and optimization models for generation and decision in Embodied AI, RLChina 2024. 
 - *2024.04*, Model-Data Hybrid-Driven Embodied Agents: Fundamentals and Applications, The 1st China Embodied AI Conference. 
 - *2023.11*, Towards Responsible Decision and Control via Implicit Networks, RLChina 2023. 
