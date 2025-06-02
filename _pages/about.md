@@ -162,7 +162,7 @@ Zekai Deng, **Ye Shi**, Kaiyang Ji, Lan Xu, Shaoli Huang, Jingya Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DiOPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DiOpt: Self-supervised Diffusion for Constrained Optimization, arXiv:2502.10330**
+**Exploring the Boundary of Diffusion-based Methods for Solving Constrained Optimization, arXiv:2502.10330**
 
 Shutong Ding, Yimiao Zhou, Ke Hu, Xi Yao, Junchi Yan, Xiaoying Tang, **Ye Shi\***
 
@@ -437,6 +437,7 @@ Yu-Tong Cao, **Ye Shi**, Jingya Wang, Baosheng Yu, Dacheng Tao
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/publications/IJCAI23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -445,6 +446,7 @@ Yu-Tong Cao, **Ye Shi**, Jingya Wang, Baosheng Yu, Dacheng Tao
 Chaofan Huo, **Ye Shi**, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang
 
 [[**paper**]](https://www.ijcai.org/proceedings/2023/0100.pdf) [[**project**]](https://huochf.github.io/StackFLOW/) [[**code**]](https://github.com/huochf/StackFLOW)
+-->
 
 </div>
 </div>
@@ -531,6 +533,7 @@ Wanxing Chang, **Ye Shi\***, Hoang Duong Tuan, Jingya Wang\*
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Fuzzy Systems 2022</div><img src='images/publications/FedFNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -552,9 +555,6 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 [[**paper**]](https://arxiv.org/pdf/2207.07900.pdf)
 </div>
 </div>
-
-
-<!--
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Fuzzy Systems 2022</div><img src='images/publications/DSFR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
