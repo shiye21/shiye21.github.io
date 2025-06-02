@@ -161,7 +161,7 @@ Shutong Ding, Yimiao Zhou, Ke Hu, Xi Yao, Junchi Yan, Xiaoying Tang, **Ye Shi\**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/RMD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, ArXiv:2503.18349**
+**Human-Object Interaction via Automatically Designed VLM-Guided Motion Policy, ArXiv:2503.18349**
 
 Zekai Deng, **Ye Shi**, Kaiyang Ji, Lan Xu, Shaoli Huang, Jingya Wang
 
