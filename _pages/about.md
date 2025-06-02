@@ -109,7 +109,7 @@ A solid mathematical background and sufficient programming skills are required. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/GenPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, ArXiv.** 
+**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, arXiv:2505.18763** 
 
 Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, **Ye Shi\***
 
@@ -122,7 +122,7 @@ Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DreamPolicy.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, ArXiv.**
+**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, arXiv:2505.18780**
 
 Yahao Fan, Tianxiang Gui, Kaiyang Ji, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang, **Ye Shi\***
 
