@@ -587,7 +587,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 
 - **Interpretable Fuzzy Logic Control for Multi-Robot Coordination in a Cluttered Environment**, Yu-Cheng Chang, **Ye Shi**, Anna Dostovalova, Zehong Cao, Chin-Teng Lin\*, Daniel Gibbons, Jijoong Kim, IEEE Transactions on Fuzzy Systems, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535292)
   
-<!-- **Model predictive control for on-off Charging of Electrical Vehicles in Smart Grids**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong and H. Vincent Poor, IET Electrical Systems in Transportation, 2020. [[**paper**]](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/els2.12010) -->
+**Model predictive control for on-off Charging of Electrical Vehicles in Smart Grids**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong and H. Vincent Poor, IET Electrical Systems in Transportation, 2020. [[**paper**]](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/els2.12010) 
   
 - **Mixed integer nonlinear programming for Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations**, **Ye Shi\***, Hoang Duong Tuan, and Andrey V. Savkin, the 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2019. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909799)
   
@@ -599,11 +599,11 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
   
 - **Global Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\* , Hoang Tuy and Steven W. Su, Journal of Global Optimization, 2017. [[**paper**]](https://link.springer.com/article/10.1007/s10898-017-0538-5)
   
-<!-- **Three-phase Optimal Power Flow for Smart Grids by Iterative Nonsmooth Optimization**, **Ye Shi**, Hoang Duong Tuan\*, and Andrey V. Savkin, accepted by the 6th International Conference on Smart Cities and Green ICT Systems, 2017. [[**paper**]](https://opus.lib.uts.edu.au/bitstream/10453/115847/1/TOPF_SmartGreens17.pdf)-->
+**Three-phase Optimal Power Flow for Smart Grids by Iterative Nonsmooth Optimization**, **Ye Shi**, Hoang Duong Tuan\*, and Andrey V. Savkin, accepted by the 6th International Conference on Smart Cities and Green ICT Systems, 2017. [[**paper**]](https://opus.lib.uts.edu.au/bitstream/10453/115847/1/TOPF_SmartGreens17.pdf)
   
 - **Nonconvex Spectral Algorithm for Solving BMI on the Reduced Order H∞ Control**, **Ye Shi\***, Hoang Duong Tuan, and Steven W. Su, accepted by the 6th IEEE International Conference on Control Systems, Computing and Engineering, 2016. (Best Paper Award) [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7893591)
   
-<!-- **Multiple Matrix Rank Constrained Optimization for Optimal Power Flow over Large Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Steven W. Su, and Andrey V. Savkin, accepted by proceedings of the 5th International Conference on Smart Cities and Green ICT Systems, 2016. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7951375) -->
+**Multiple Matrix Rank Constrained Optimization for Optimal Power Flow over Large Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Steven W. Su, and Andrey V. Savkin, accepted by proceedings of the 5th International Conference on Smart Cities and Green ICT Systems, 2016. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7951375)
   
 - **Nonsmooth Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi\***, Hoang Duong Tuan, Steven W. Su and H. H. M. Tam, accepted by the 3rd IEEE Global Conference on Signal and Information Processing, 2015. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7418376)
 --> 
