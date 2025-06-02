@@ -146,6 +146,18 @@ Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye S
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DiOPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring the Boundary of Diffusion-based Methods for Solving Constrained Optimization, arXiv:2502.10330**
+
+Shutong Ding, Yimiao Zhou, Ke Hu, Xi Yao, Junchi Yan, Xiaoying Tang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2502.10330)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/RMD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -159,17 +171,6 @@ Zekai Deng, **Ye Shi**, Kaiyang Ji, Lan Xu, Shaoli Huang, Jingya Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DiOPT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Exploring the Boundary of Diffusion-based Methods for Solving Constrained Optimization, arXiv:2502.10330**
-
-Shutong Ding, Yimiao Zhou, Ke Hu, Xi Yao, Junchi Yan, Xiaoying Tang, **Ye Shi\***
-
-[[**paper**]](https://arxiv.org/abs/2502.10330)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/NLPrompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -183,7 +184,7 @@ Bikang Pan\#, Qun Li\#, Xiaoying Tang, Wei Huang, Zhen Fang, Feng Liu, Jingya Wa
 
 </div>
 </div>
- 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AffordDP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -225,6 +226,7 @@ Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wan
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/shx_deqnc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -236,6 +238,7 @@ Haixiang Sun, **Ye Shi\***
 
 </div> 
 </div> 
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024/PromptFolio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -315,7 +318,6 @@ Juze Zhang, Jingyan Zhang, Zining Song, Zhanhe Shi, Chengfeng Zhao, **Ye Shi**, 
 
 </div>
 </div>
--->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24-Fed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -329,7 +331,6 @@ Wei Huang, **Ye Shi\***, Zhongyi Cai, Taiji Suzuki
 </div>
 </div>
 
-<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24_pot.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -434,10 +435,10 @@ Yu-Tong Cao, **Ye Shi**, Jingya Wang, Baosheng Yu, Dacheng Tao
 [[**paper**]](https://arxiv.org/pdf/2211.13579.pdf) 
 [[**code**]](https://github.com/ycao5602/KAFAL) 
 
+<!--
 </div>
 </div>
 
-<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/publications/IJCAI23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
