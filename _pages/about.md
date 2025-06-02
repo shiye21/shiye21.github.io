@@ -47,7 +47,7 @@ A solid mathematical background and sufficient programming skills are required. 
   <ul>
     <li><em>2025.6</em>: We will host a Workshop "Human-Robot-Scene Interaction and Collaboration" at ICCV 2025. </li> 
     <li><em>2025.6</em>: I will give a talk "Diffusion-Driven Embodied AI: Breakthroughs in Theory and Algorithmic Frontiers" at VALSE 2025. </li> 
-    <li><em>2025.5</em>: We host a Workshop "Humanoid Locomotion and Interaction" at the 2025 Zhangjiang Embodied AI Conference. </li> 
+    <li><em>2025.5</em>: We hosted a Workshop "Humanoid Locomotion and Interaction" at the 2025 Zhangjiang Embodied AI Conference. </li> 
     <li><em>2025.5</em>: One paper accepted by <strong>ICML 2025</strong> as a <strong>Spotlight</strong>. Congratulations to Kaizhen Zhu and Mokai Pan! 2 Submissions with 1 Acceptance. </li> 
     <li><em>2025.4</em>: Our paper UniDB won <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. Congratulations to Kaizhen Zhu and Mokai Pan! </li>
     <li><em>2025.4</em>: I will serve as an Area Chair for <strong>NeurIPS 2025</strong>. </li>
