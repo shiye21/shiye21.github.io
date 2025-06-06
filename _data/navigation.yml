@@ -18,8 +18,8 @@ main:
   # - title: "Activities"
   #   url: "/#-activities"
 
-  - title: "Group"
-    url: "/#-group"
+  # - title: "Group"
+  #  url: "/#-group"
 
   # - title: "Teaching"
   #   url: "/#-teaching"
