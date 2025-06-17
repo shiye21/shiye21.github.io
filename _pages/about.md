@@ -127,7 +127,7 @@ Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wan
 
 **One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, arXiv:2505.18780**
 
-Yahao Fan, Tianxiang Gui, Kaiyang Ji, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang, **Ye Shi\***
+Yahao Fan\#, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, **Ye Shi\***
 
 [[**paper**]](https://www.arxiv.org/abs/2505.18780)
 [[**project**]](https://dreampolicy.github.io/) 
