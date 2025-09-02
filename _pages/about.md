@@ -141,7 +141,7 @@ Yahao Fan\#, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 Highlight</div><img src='images/HumanX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis, ICCV 2025 Highlight**
+**Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis, <span style="color:red;">ICCV 2025 Highlight.</span>**
 
 Kaiyang Ji, **Ye Shi\***, Zichen Jin, Kangyi Chen, Lan Xu, Yuexin Ma, Jingyi Yu, Jingya Wang\*
 
