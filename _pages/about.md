@@ -45,10 +45,13 @@ A solid mathematical background and sufficient programming skills are required. 
 # 🔥 News 
 <div id="news-section">  
   <ul>
+    <li><em>2025.9</em>: I will serve as an Area Chair for <strong>ICLR 2026</strong>. </li>
+    <li><em>2025.8</em>: I gave a talk at AI for Engineering Conference at Harbin. </li>
+    <li><em>2025.7</em>: Our paper was accepted by <strong>ICCV 2025</strong> as a <strong>Highlight</strong>. </li>
     <li><em>2025.6</em>: We will host a Workshop "Human-Robot-Scene Interaction and Collaboration" at <strong>ICCV 2025</strong>. </li> 
-    <li><em>2025.6</em>: I will give a talk "Diffusion-Driven Embodied AI: Breakthroughs in Theory and Algorithmic Frontiers" at <strong>VALSE 2025</strong>. </li> 
+    <li><em>2025.6</em>: I gave a talk "Diffusion-Driven Embodied AI: Breakthroughs in Theory and Algorithmic Frontiers" at <strong>VALSE 2025</strong>. </li> 
     <li><em>2025.5</em>: We hosted a Workshop "Humanoid Locomotion and Interaction" at the 2025 <strong>Zhangjiang Embodied AI Conference</strong>. </li> 
-    <li><em>2025.5</em>: One paper accepted by <strong>ICML 2025</strong> as a <strong>Spotlight</strong>. Congratulations to Kaizhen Zhu and Mokai Pan! 2 Submissions with 1 Acceptance. </li> 
+    <li><em>2025.5</em>: One paper was accepted by <strong>ICML 2025</strong> as a <strong>Spotlight</strong>. Congratulations to Kaizhen Zhu and Mokai Pan! 2 Submissions with 1 Acceptance. </li> 
     <li><em>2025.4</em>: Our paper UniDB won <strong>Outstanding Paper Award</strong> of ICLR 2025 DeLTa Workshop. Congratulations to Kaizhen Zhu and Mokai Pan! </li>
     <li><em>2025.4</em>: I will serve as an Area Chair for <strong>NeurIPS 2025</strong>. </li>
     <li><em>2025.2</em>: Three Papers accepted by <strong>CVPR 2025</strong>. Congratulations to Bikang Pan, Qun Li (<strong>CVPR Highlight</strong>); Shijie Wu, Yihang Zhu; Chunlin Yu, Hanqing Wang. 4 Submissions with 3 Acceptances. </li> 
@@ -131,6 +134,19 @@ Yahao Fan\#, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan
 
 [[**paper**]](https://www.arxiv.org/abs/2505.18780)
 [[**project**]](https://dreampolicy.github.io/) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 Highlight</div><img src='images/HumanX.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis, ICCV 2025 Highlight**
+
+Kaiyang Ji, **Ye Shi\***, Zichen Jin, Kangyi Chen, Lan Xu, Yuexin Ma, Jingyi Yu, Jingya Wang\*
+
+[[**paper**]](https://www.arxiv.org/abs/2508.02106)
+[[**project**]](https://humanx-interaction.github.io)
 
 </div>
 </div>
@@ -654,7 +670,7 @@ School of Information Science and Technology, ShanghaiTech University.
 
 # 🕴️ Activities
 - **Area Chair**
-  NeurIPS 2025.
+  NeurIPS 2025, ICLR 2026.
 - **Session Chair**
 The 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2019).
 - **Program committee**
@@ -736,3 +752,4 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
 - **Visiting Students** 
 -->
+
