@@ -46,7 +46,7 @@ A solid mathematical background and sufficient programming skills are required. 
 <div id="news-section">  
   <ul>
     <li><em>2025.9</em>: I will serve as an Area Chair for <strong>ICLR 2026</strong>. </li>
-    <li><em>2025.8</em>: I gave a talk at AI for Engineering Conference at Harbin. </li>
+    <li><em>2025.8</em>: I gave a talk at AI for Engineering Conference 2025 at Harbin. </li>
     <li><em>2025.7</em>: Our paper was accepted by <strong>ICCV 2025</strong> as a <strong>Highlight</strong>. </li>
     <li><em>2025.6</em>: We will host a Workshop "Human-Robot-Scene Interaction and Collaboration" at <strong>ICCV 2025</strong>. </li> 
     <li><em>2025.6</em>: I gave a talk "Diffusion-Driven Embodied AI: Breakthroughs in Theory and Algorithmic Frontiers" at <strong>VALSE 2025</strong>. </li> 
@@ -752,4 +752,5 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
 - **Visiting Students** 
 -->
+
 
