@@ -45,7 +45,8 @@ A solid mathematical background and sufficient programming skills are required. 
 # 🔥 News 
 <div id="news-section">  
   <ul>
-    <li><em>2025.9</em>: Three papers were accepted by <strong>NeurIPS 2025</strong>. </li>
+    <li><em>2025.9</em>: Three papers were accepted by <strong>NeurIPS 2025</strong>. One is Oral (77 among 21575). Big congratulations to Zhenhao Zhang. </li>
+    <li><em>2025.9</em>: I gave a talk at CSIG 2025 at Qingdao. </li>
     <li><em>2025.9</em>: I will serve as an Area Chair for <strong>ICLR 2026</strong>. </li>
     <li><em>2025.8</em>: I gave a talk at AI for Engineering Conference 2025 at Harbin. </li>
     <li><em>2025.7</em>: Our paper was accepted by <strong>ICCV 2025</strong> as a <strong>Highlight</strong>. </li>
@@ -764,6 +765,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
 - **Visiting Students** 
 -->
+
 
 
 
