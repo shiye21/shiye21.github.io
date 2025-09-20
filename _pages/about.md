@@ -112,12 +112,24 @@ A solid mathematical background and sufficient programming skills are required. 
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/OpenHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model, <span style="color:red;">NeurIPS 2025 Oral (0.3%).</span>** 
+
+Zhenhao Zhang, **Ye Shi\*** , Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang* 
+
+[[**paper**]](https://www.arxiv.org/abs/2505.18947)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GenPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, NeurIPS 2025.** 
 
-Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, **Ye Shi\***
+Shutong Ding#, Ke Hu#, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, **Ye Shi\***
 
 [[**paper**]](https://www.arxiv.org/abs/2505.18763)
 [[**project**]](https://anonymous-project365.github.io/)  
@@ -752,6 +764,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
 - **Visiting Students** 
 -->
+
 
 
 
