@@ -138,19 +138,6 @@ Shutong Ding#, Ke Hu#, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun W
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DreamPolicy.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, arXiv:2505.18780**
-
-Yahao Fan\#, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, **Ye Shi\***
-
-[[**paper**]](https://www.arxiv.org/abs/2505.18780)
-[[**project**]](https://dreampolicy.github.io/) 
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 Highlight</div><img src='images/HumanX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -178,6 +165,32 @@ Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye S
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/NLPrompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**NLPrompt: Noise-Label Prompt Learning for Vision-Language Models,	<span style="color:red;">CVPR 2025 Highlight.</span>**
+
+Bikang Pan\#, Qun Li\#, Xiaoying Tang, Wei Huang, Zhen Fang, Feng Liu, Jingya Wang, Jingyi Yu, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2412.01256v1)
+[[**code**]](https://github.com/qunovo/NLPrompt)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DreamPolicy.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, arXiv:2505.18780**
+
+Yahao Fan\#, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, **Ye Shi\***
+
+[[**paper**]](https://www.arxiv.org/abs/2505.18780)
+[[**project**]](https://dreampolicy.github.io/) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DiOPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -199,20 +212,6 @@ Zekai Deng, **Ye Shi**, Kaiyang Ji, Lan Xu, Shaoli Huang, Jingya Wang
 
 [[**paper**]](https://arxiv.org/pdf/2503.18349)
 [[**project**]](https://rmd-hoi.github.io/)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/NLPrompt.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**NLPrompt: Noise-Label Prompt Learning for Vision-Language Models,	<span style="color:red;">CVPR 2025 Highlight.</span>**
-
-Bikang Pan\#, Qun Li\#, Xiaoying Tang, Wei Huang, Zhen Fang, Feng Liu, Jingya Wang, Jingyi Yu, **Ye Shi\***
-
-[[**paper**]](https://arxiv.org/abs/2412.01256v1)
-[[**code**]](https://github.com/qunovo/NLPrompt)
 
 </div>
 </div>
@@ -765,6 +764,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
 - **Visiting Students** 
 -->
+
 
 
 
