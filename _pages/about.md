@@ -112,10 +112,10 @@ A solid mathematical background and sufficient programming skills are required. 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/GenPO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GenPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, arXiv:2505.18763** 
+**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, NeurIPS 2025.** 
 
 Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, **Ye Shi\***
 
@@ -752,5 +752,6 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
 - **Visiting Students** 
 -->
+
 
 
