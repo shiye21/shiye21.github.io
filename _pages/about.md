@@ -133,9 +133,10 @@ Zhenhao Zhang, **Ye Shi\*** , Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang*
 
 Shutong Ding#, Ke Hu#, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, **Ye Shi\***
 
-[[**paper**]](https://www.arxiv.org/abs/2505.18763)  
+[[**paper**]](https://www.arxiv.org/abs/2505.18763)
 [[**code**]](https://github.com/wadx2019/genpo)
 [[**project**]](https://anonymous-project365.github.io/)
+
 </div>
 </div>
 
@@ -765,6 +766,7 @@ The 10th IEEE International Conference on Communications, Control, and Computing
   + Qi Li (2022 Spring - 2024 Spring): B.S. at ShanghaiTech University; Pursuing M.S. at Johns Hopkins University.  
 - **Visiting Students** 
 -->
+
 
 
 
