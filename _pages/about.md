@@ -113,7 +113,91 @@ A solid mathematical background and sufficient programming skills are required. 
 </script>
 
 # 📝 Selected Publications 
+# 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/SteerGenPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SteerGenPO: Steering Generative Reinforcement Learning into Stable Robotic Controller, <span style="color:red;">arXiv 2026.</span>** 
+
+Yixuan Wang#, Shutong Ding#, Ke Hu#, Tianxiang Gui, Jingya Wang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2606.16572)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/BridgePolicy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**BridgePolicy: Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation, <span style="color:red;">ICML 2026.</span>** 
+
+Zhaoyang Liu, Mokai Pan, Zhongyi Wang, Kaizhen Zhu, Haotao Lu, Jingya Wang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2512.07212) [[**project**]](https://jianghcsr.github.io/BridgePolicy_page/) [[**code**]](https://github.com/jianghcsr/BridgePolicy)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Poster</div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis, <span style="color:red;">ICML 2026 Poster.</span>** 
+
+Kaizhen Zhu#, Mokai Pan#, Zhechuan Yu, Jingya Wang, Jingyi Yu, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2509.24531) [[**code**]](https://github.com/zhukaizhen/diffusion_bridge_flow_matching)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/UniDBpp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UniDB++: A Unified and Fast-Sampling Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">arXiv 2025.</span>** 
+
+Mokai Pan#, Kaizhen Zhu#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2505.21528) [[**code**]](https://github.com/2769433owo/UniDB-plusplus)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/DreamPolicy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DreamPolicy: A Unified World-model Policy for Scalable Humanoid Locomotion, <span style="color:red;">arXiv 2025.</span>** 
+
+Yahao Fan#, Tianxiang Gui#, Kaiyang Ji#, Shutong Ding, Chixuan Zhang, Yifeng Xu, Ke Yang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2505.18780) [[**project**]](https://dreampolicy.github.io/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/OpenHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model, <span style="color:red;">NeurIPS 2025 Oral (0.3%).</span>** 
+
+Zhenhao Zhang, **Ye Shi\***, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
+
+[[**paper**]](https://www.arxiv.org/abs/2505.18947)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GenPO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, <span style="color:red;">NeurIPS 2025.</span>** 
+
+Shutong Ding#, Ke Hu#, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2505.18763) [[**code**]](https://github.com/wadx2019/genpo) [[**project**]](https://anonymous-project365.github.io/)
+
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/OpenHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
