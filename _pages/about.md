@@ -179,7 +179,7 @@ Shutong Ding#, Yimiao Zhou#, Ke Hu, Mokai Pan, Shan Zhong, Yanwei Fu, Jingya Wan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/BridgePolicy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**BridgePolicy: Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation, ICML 2026.** 
+** Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation, ICML 2026.** 
 
 Zhaoyang Liu, Mokai Pan, Zhongyi Wang, Kaizhen Zhu, Haotao Lu, Jingya Wang, **Ye Shi\***
 
