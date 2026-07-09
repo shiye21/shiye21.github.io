@@ -167,7 +167,7 @@ Zekai Deng, **Ye Shi**, Kaiyang Ji, Lan Xu, Shaoli Huang, Jingya Wang\*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/DBC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Distributional Reinforcement Learning with Diffusion Bridge Critics, arXiv 2026.** 
+**DBC: Distributional Reinforcement Learning with Diffusion Bridge Critics, arXiv 2026.** 
 
 Shutong Ding#, Yimiao Zhou#, Ke Hu, Mokai Pan, Shan Zhong, Yanwei Fu, Jingya Wang, **Ye Shi\***
 
@@ -179,7 +179,7 @@ Shutong Ding#, Yimiao Zhou#, Ke Hu, Mokai Pan, Shan Zhong, Yanwei Fu, Jingya Wan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/BridgePolicy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation, ICML 2026.** 
+**BridgePolicy: Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation, ICML 2026.** 
 
 Zhaoyang Liu, Mokai Pan, Zhongyi Wang, Kaizhen Zhu, Haotao Lu, Jingya Wang, **Ye Shi\***
 
@@ -188,10 +188,10 @@ Zhaoyang Liu, Mokai Pan, Zhongyi Wang, Kaizhen Zhu, Haotao Lu, Jingya Wang, **Ye
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 </div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Poster</div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis, ICML 2026 .** 
+**Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis, ICML 2026 Poster.** 
 
 Kaizhen Zhu#, Mokai Pan#, Zhechuan Yu, Jingya Wang, Jingyi Yu, **Ye Shi\***
 
@@ -214,6 +214,39 @@ Mokai Pan#, Kaizhen Zhu#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/OpenHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+**OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model, <span style="color:red;">NeurIPS 2025 Oral (0.3%).</span>** 
+
+Zhenhao Zhang, **Ye Shi\***, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
+
+[[**paper**]](https://www.arxiv.org/abs/2505.18947)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GenPO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, <span style="color:red;">NeurIPS 2025.</span>** 
+
+Shutong Ding#, Ke Hu#, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2505.18763) [[**code**]](https://github.com/wadx2019/genpo) [[**project**]](https://anonymous-project365.github.io/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/DreamPolicy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DreamPolicy: A Unified World-model Policy for Scalable Humanoid Locomotion, arXiv 2025.** 
+
+Yahao Fan#, Tianxiang Gui#, Kaiyang Ji#, Shutong Ding, Chixuan Zhang, Yifeng Xu, Ke Yang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, **Ye Shi\***
+
+[[**paper**]](https://arxiv.org/abs/2505.18780) [[**project**]](https://dreampolicy.github.io/)
+
+</div>
+</div>
 
 **OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model, <span style="color:red;">NeurIPS 2025 Oral (0.3%).</span>** 
 
