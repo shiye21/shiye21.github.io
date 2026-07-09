@@ -111,8 +111,7 @@ A solid mathematical background and sufficient programming skills are required. 
     }
   }
 </script>
-
-# 📝 Selected Publications 
+ 
 # 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/SteerGenPO.png' alt="sym" width="100%"></div></div>
