@@ -188,10 +188,10 @@ Zhaoyang Liu, Mokai Pan, Zhongyi Wang, Kaizhen Zhu, Haotao Lu, Jingya Wang, **Ye
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Poster</div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 </div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis, ICML 2026 Poster.** 
+**Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis, ICML 2026 .** 
 
 Kaizhen Zhu#, Mokai Pan#, Zhechuan Yu, Jingya Wang, Jingyi Yu, **Ye Shi\***
 
