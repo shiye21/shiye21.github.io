@@ -45,9 +45,10 @@ A solid mathematical background and sufficient programming skills are required. 
 # 🔥 News 
 <div id="news-section">  
   <ul>
-    <li><em>2026.5</em>: Seven papers were accepted by <strong>ICML 2026</strong>. </li>
+    <li><em>2026.5</em>: <strong>ACM MM 2026</strong> +3. 100% Accept Rate.</li>
+    <li><em>2026.5</em>: <strong>ICML 2026</strong> +7. </li>
     <li><em>2026.4</em>: I will serve as an Area Chair for <strong>CoRL 2026</strong>. </li>
-    <li><em>2025.9</em>: Three papers were accepted by <strong>NeurIPS 2025</strong>. One is Oral (77 among 21575). Big congratulations to Zhenhao Zhang. </li>
+    <li><em>2025.9</em>: <strong>NeurIPS 2025</strong> +3. One is Oral (77 among 21575). </li>
     <li><em>2025.9</em>: I gave a talk at CSIG 2025 at Qingdao. </li>
     <li><em>2025.9</em>: I will serve as an Area Chair for <strong>ICLR 2026</strong>. </li>
     <li><em>2025.8</em>: I gave a talk at AI for Engineering Conference 2025 at Harbin. </li>
